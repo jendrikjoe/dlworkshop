@@ -1,0 +1,35 @@
+\input{./preamble.tex}
+
+
+\title{Prerequisites (Deep) Learn Neural Networks}
+\author{}
+\date{QCon London, March 7th}
+
+%\usetheme[progressbar=frametitle]{metropolis}
+
+\begin{document}
+Hey there Deep Learners, \\
+\\
+I am really looking forward to the workshop with you all at QCon London.
+To make the start of the workshop as smooth as possible, I have some prerequisites for each of you. First of all, we will take care of having an environment set up for everyone of you in the cloud. As I assume that some people might prefer working on their own machines, I wanted to give you some instructions on how to set those up. To follow the workshop without any issues you will need to have the following things installed on your laptop:
+\begin{itemize}
+	\item Your laptop should contain an up-to-date NVIDIA graphics card. It should be fitted with at least 2GB of VRAM. Otherwise, some models might not fit in memory.
+	\item{You will need to install   \href{https://developer.nvidia.com/cuda-downloads}{Cuda} and \href{https://developer.nvidia.com/cudnn}{CuDNN}}
+	\item You will need to have Python 3.7 installed
+	\item Now, run `pip install -r requirements.txt` with the requirements file found in this mail.
+	\item{Finally, install PyTorch following the guide on \href{pytorch.org}{pytorch.org}}
+\end{itemize}
+To check your installation run:\\
+\begin{lstlisting}[language=Python]
+ipython
+import torch
+torch.cuda.is_available()
+\end{lstlisting}
+This should return `True`.
+If not you did some mistake in setting up your environment. But again, we will have a cloud environment readily available for you, if even googling does not solve the problem.\\
+
+Cheers,\\
+Jendrik
+
+
+\end{document}

@@ -1,0 +1,5 @@
+\babel@toc {english}{}
+\beamer@sectionintoc {1}{Overview}{2}{0}{1}
+\beamer@sectionintoc {2}{Introduction}{9}{0}{2}
+\beamer@sectionintoc {3}{Frameworks}{86}{0}{3}
+\beamer@sectionintoc {4}{SegNet}{109}{0}{4}

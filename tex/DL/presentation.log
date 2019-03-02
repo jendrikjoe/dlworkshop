@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.1.6)  25 JAN 2019 13:36
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.1.6)  2 MAR 2019 20:23
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1337,14 +1337,28 @@ thkerncmss.
 
 ] [14
 
-] [15
+]
+Overfull \hbox (18.90436pt too wide) in paragraph at lines 69--69
+ [] 
+ []
 
-] [16
-
-] [17
+[15
 
 ]
-[18
+Overfull \hbox (18.90436pt too wide) in paragraph at lines 69--69
+ [] 
+ []
+
+[16
+
+]
+Overfull \hbox (18.90436pt too wide) in paragraph at lines 69--69
+ [] 
+ []
+
+[17
+
+] [18
 
 ] [19
 
@@ -1364,31 +1378,75 @@ thkerncmss.
 
 ] [27
 
-] [28
-
-] [29
-
-] [30
-
 ]
 \openout4 = `presentation.vrb'.
 
-
-(./presentation.vrb
+ (./presentation.vrb
 
 Package pgfplots Warning: You have an axis with empty range (in direction y). R
 eplacing it with a default range and clearing all plots. on input line 27.
 
  [warning /pgfplots/warning/empty range cleared axis]
+) [28
+
+] (./presentation.vrb) [29
+
+] (./presentation.vrb
+Underfull \hbox (badness 10000) in paragraph at lines 28--30
+[][]
+ []
+
+) [30
+
+] (./presentation.vrb
+Underfull \hbox (badness 10000) in paragraph at lines 28--30
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 63--64
+[][]
+ []
+
 ) [31
 
-] (./presentation.vrb) [32
+] (./presentation.vrb
+Underfull \hbox (badness 10000) in paragraph at lines 28--30
+[][]
+ []
 
-] (./presentation.vrb) [33
 
-] (./presentation.vrb) [34
+Underfull \hbox (badness 10000) in paragraph at lines 63--64
+[][]
+ []
 
-] (./presentation.vrb) [35
+) [32
+
+] (./presentation.vrb
+Underfull \hbox (badness 10000) in paragraph at lines 28--30
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 63--64
+[][]
+ []
+
+) [33
+
+] (./presentation.vrb
+Underfull \hbox (badness 10000) in paragraph at lines 28--30
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 63--64
+[][]
+ []
+
+) [34
+
+] [35
 
 ] [36
 
@@ -1406,8 +1464,7 @@ eplacing it with a default range and clearing all plots. on input line 27.
 
 ] [43
 
-]
-[44
+] [44
 
 ] [45
 
@@ -1416,53 +1473,19 @@ eplacing it with a default range and clearing all plots. on input line 27.
 ] [47
 
 ]
-Overfull \hbox (10.39809pt too wide) in paragraph at lines 235--235
-[][] 
- []
-
 [48
 
-]
-Overfull \hbox (10.39809pt too wide) in paragraph at lines 235--235
-[][] 
- []
+] [49
 
-[49
+] [50
 
-]
-Overfull \hbox (10.39809pt too wide) in paragraph at lines 235--235
-[][] 
- []
+] [51
 
-[50
+] [52
 
-]
-Overfull \hbox (10.39809pt too wide) in paragraph at lines 235--235
-[][] 
- []
+] [53
 
-[51
-
-]
-Overfull \hbox (10.39809pt too wide) in paragraph at lines 235--235
-[][] 
- []
-
-[52
-
-]
-Overfull \hbox (10.39809pt too wide) in paragraph at lines 235--235
-[][] 
- []
-
-[53
-
-]
-Overfull \hbox (10.39809pt too wide) in paragraph at lines 235--235
-[][] 
- []
-
-[54
+] [54
 
 ] [55
 
@@ -1480,7 +1503,8 @@ Overfull \hbox (10.39809pt too wide) in paragraph at lines 235--235
 
 ] [62
 
-] [63
+]
+[63
 
 ] [64
 
@@ -1492,8 +1516,7 @@ Overfull \hbox (10.39809pt too wide) in paragraph at lines 235--235
 
 ] [68
 
-]
-[69
+] [69
 
 ] [70
 
@@ -1511,7 +1534,8 @@ Overfull \hbox (10.39809pt too wide) in paragraph at lines 235--235
 
 ] [77
 
-] [78
+]
+[78
 
 ] [79
 
@@ -1523,233 +1547,7 @@ Overfull \hbox (10.39809pt too wide) in paragraph at lines 235--235
 
 ] [83
 
-]
-[84
-
-] [85
-
-] [86
-
-] [87
-
-] [88
-
-] [89
-
-] [90
-
-] [91
-
-]
-Overfull \hbox (111.187pt too wide) in paragraph at lines 392--392
- [] 
- []
-
-[92
-
-]
-Overfull \hbox (111.187pt too wide) in paragraph at lines 392--392
- [] 
- []
-
-[93
-
-]
-Overfull \hbox (111.187pt too wide) in paragraph at lines 392--392
- [] 
- []
-
-[94
-
-]
-Overfull \hbox (111.187pt too wide) in paragraph at lines 392--392
- [] 
- []
-
-[95
-
-]
-Overfull \hbox (111.187pt too wide) in paragraph at lines 392--392
- [] 
- []
-
-[96
-
-]
-Overfull \hbox (111.187pt too wide) in paragraph at lines 392--392
- [] 
- []
-
-[97
-
-]
-Overfull \hbox (111.187pt too wide) in paragraph at lines 392--392
- [] 
- []
-
-[98
-
-]
-Overfull \hbox (111.187pt too wide) in paragraph at lines 392--392
- [] 
- []
-
-[99
-
-]
-Overfull \hbox (111.187pt too wide) in paragraph at lines 392--392
- [] 
- []
-
-[100
-
-]
-Overfull \hbox (111.187pt too wide) in paragraph at lines 392--392
- [] 
- []
-
-[101
-
-] [102
-
-] [103
-
-] [104
-
-] [105
-
-] [106
-
-] [107
-
-] [108
-
-]
-<./figs/hamburg_000000_013577_leftImg8bit.png, id=2822, 2055.68pt x 1027.84pt>
-File: ./figs/hamburg_000000_013577_leftImg8bit.png Graphic file (type png)
-<use ./figs/hamburg_000000_013577_leftImg8bit.png>
-Package pdftex.def Info: ./figs/hamburg_000000_013577_leftImg8bit.png  used on 
-input line 435.
-(pdftex.def)             Requested size: 179.25114pt x 89.61583pt.
- [109
-
- <./figs/hamburg_000000_013577_leftImg8bit.png>]
-File: ./figs/hamburg_000000_013577_leftImg8bit.png Graphic file (type png)
-<use ./figs/hamburg_000000_013577_leftImg8bit.png>
-Package pdftex.def Info: ./figs/hamburg_000000_013577_leftImg8bit.png  used on 
-input line 435.
-(pdftex.def)             Requested size: 179.25114pt x 89.61583pt.
- [110
-
-]
-File: ./figs/hamburg_000000_013577_leftImg8bit.png Graphic file (type png)
-<use ./figs/hamburg_000000_013577_leftImg8bit.png>
-Package pdftex.def Info: ./figs/hamburg_000000_013577_leftImg8bit.png  used on 
-input line 435.
-(pdftex.def)             Requested size: 179.25114pt x 89.61583pt.
- [111
-
-]
-File: ./figs/hamburg_000000_013577_leftImg8bit.png Graphic file (type png)
-<use ./figs/hamburg_000000_013577_leftImg8bit.png>
-Package pdftex.def Info: ./figs/hamburg_000000_013577_leftImg8bit.png  used on 
-input line 435.
-(pdftex.def)             Requested size: 179.25114pt x 89.61583pt.
- [112
-
-]
-File: ./figs/hamburg_000000_013577_leftImg8bit.png Graphic file (type png)
-<use ./figs/hamburg_000000_013577_leftImg8bit.png>
-Package pdftex.def Info: ./figs/hamburg_000000_013577_leftImg8bit.png  used on 
-input line 435.
-(pdftex.def)             Requested size: 179.25114pt x 89.61583pt.
- [113
-
-]
-File: ./figs/hamburg_000000_013577_leftImg8bit.png Graphic file (type png)
-<use ./figs/hamburg_000000_013577_leftImg8bit.png>
-Package pdftex.def Info: ./figs/hamburg_000000_013577_leftImg8bit.png  used on 
-input line 435.
-(pdftex.def)             Requested size: 179.25114pt x 89.61583pt.
- [114
-
-]
-File: ./figs/hamburg_000000_013577_leftImg8bit.png Graphic file (type png)
-<use ./figs/hamburg_000000_013577_leftImg8bit.png>
-Package pdftex.def Info: ./figs/hamburg_000000_013577_leftImg8bit.png  used on 
-input line 435.
-(pdftex.def)             Requested size: 179.25114pt x 89.61583pt.
- [115
-
-]
-File: ./figs/hamburg_000000_013577_leftImg8bit.png Graphic file (type png)
-<use ./figs/hamburg_000000_013577_leftImg8bit.png>
-Package pdftex.def Info: ./figs/hamburg_000000_013577_leftImg8bit.png  used on 
-input line 448.
-(pdftex.def)             Requested size: 179.25114pt x 89.61583pt.
-<./figs/hamburg_000000_013577_leftImg8bitAnno.png, id=3001, 1027.84pt x 513.92p
-t>
-File: ./figs/hamburg_000000_013577_leftImg8bitAnno.png Graphic file (type png)
-<use ./figs/hamburg_000000_013577_leftImg8bitAnno.png>
-Package pdftex.def Info: ./figs/hamburg_000000_013577_leftImg8bitAnno.png  used
- on input line 448.
-(pdftex.def)             Requested size: 179.25114pt x 89.62367pt.
- [116
-
- <./figs/hamburg_000000_013577_leftImg8bitAnno.png>]
-File: ./figs/hamburg_000000_013577_leftImg8bit.png Graphic file (type png)
-<use ./figs/hamburg_000000_013577_leftImg8bit.png>
-Package pdftex.def Info: ./figs/hamburg_000000_013577_leftImg8bit.png  used on 
-input line 448.
-(pdftex.def)             Requested size: 179.25114pt x 89.61583pt.
-File: ./figs/hamburg_000000_013577_leftImg8bitAnno.png Graphic file (type png)
-<use ./figs/hamburg_000000_013577_leftImg8bitAnno.png>
-Package pdftex.def Info: ./figs/hamburg_000000_013577_leftImg8bitAnno.png  used
- on input line 448.
-(pdftex.def)             Requested size: 179.25114pt x 89.62367pt.
- [117
-
-]
-File: ./figs/hamburg_000000_013577_leftImg8bit.png Graphic file (type png)
-<use ./figs/hamburg_000000_013577_leftImg8bit.png>
-Package pdftex.def Info: ./figs/hamburg_000000_013577_leftImg8bit.png  used on 
-input line 461.
-(pdftex.def)             Requested size: 179.25114pt x 89.61583pt.
-<./figs/hamburg_000000_013577_gtFine_color.png, id=3055, 2055.68pt x 1027.84pt>
-
-File: ./figs/hamburg_000000_013577_gtFine_color.png Graphic file (type png)
-<use ./figs/hamburg_000000_013577_gtFine_color.png>
-Package pdftex.def Info: ./figs/hamburg_000000_013577_gtFine_color.png  used on
- input line 461.
-(pdftex.def)             Requested size: 179.25114pt x 89.61583pt.
- [118
-
- <./figs/hamburg_000000_013577_gtFine_color.png>]
-File: ./figs/hamburg_000000_013577_leftImg8bit.png Graphic file (type png)
-<use ./figs/hamburg_000000_013577_leftImg8bit.png>
-Package pdftex.def Info: ./figs/hamburg_000000_013577_leftImg8bit.png  used on 
-input line 461.
-(pdftex.def)             Requested size: 179.25114pt x 89.61583pt.
-File: ./figs/hamburg_000000_013577_gtFine_color.png Graphic file (type png)
-<use ./figs/hamburg_000000_013577_gtFine_color.png>
-Package pdftex.def Info: ./figs/hamburg_000000_013577_gtFine_color.png  used on
- input line 461.
-(pdftex.def)             Requested size: 179.25114pt x 89.61583pt.
- [119
-
-]
-<./figs/segNetStructure.png, id=3107, 878.28125pt x 250.9375pt>
-File: ./figs/segNetStructure.png Graphic file (type png)
-<use ./figs/segNetStructure.png>
-Package pdftex.def Info: ./figs/segNetStructure.png  used on input line 466.
-(pdftex.def)             Requested size: 398.3386pt x 113.81297pt.
- [120
-
- <./figs/segNetStructure.png>] [121
-
-] [122
-
-] [123
+] [84
 
 ])
 \tf@nav=\write6
@@ -1763,23 +1561,47 @@ Package pdftex.def Info: ./figs/segNetStructure.png  used on input line 466.
 
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 27.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 27.
-
-(./presentation.aux)
+ (./presentation.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 27.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 27.
-Package rerunfilecheck Info: File `presentation.out' has not changed.
-(rerunfilecheck)             Checksum: A47AD7CE955D4F383408CC683CACF6B1;176.
+
+
+Package rerunfilecheck Warning: File `presentation.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `presentation.out':
+(rerunfilecheck)             Before: 64BEFCCFFADEE69125BAF4110CF91429;321
+(rerunfilecheck)             After:  7681FE4872D78BA4253F88B486C1271E;235.
  ) 
 Here is how much of TeX's memory you used:
- 37006 strings out of 492982
- 877658 string characters out of 6134897
- 1093451 words of memory out of 5000000
- 39521 multiletter control sequences out of 15000+600000
+ 36921 strings out of 492982
+ 876049 string characters out of 6134897
+ 1107520 words of memory out of 5000000
+ 39509 multiletter control sequences out of 15000+600000
  21691 words of font info for 65 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 73i,14n,114p,802b,2106s stack positions out of 5000i,500n,10000p,200000b,80000s
-pdfTeX warning (dest): name{Navigation124} has been referenced but does not e
+ 74i,14n,114p,802b,2106s stack positions out of 5000i,500n,10000p,200000b,80000s
+pdfTeX warning (dest): name{Navigation103} has been referenced but does not e
 xist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Navigation102} has been referenced but does not exi
+st, replaced by a fixed one
+
+pdfTeX warning (dest): name{Navigation86} has been referenced but does not exis
+t, replaced by a fixed one
+
+pdfTeX warning (dest): name{Navigation85} has been referenced but does not exis
+t, replaced by a fixed one
+
+pdfTeX warning (dest): name{Navigation117} has been referenced but does not exi
+st, replaced by a fixed one
+
+pdfTeX warning (dest): name{Outline0.7} has been referenced but does not exist,
+ replaced by a fixed one
+
+pdfTeX warning (dest): name{Outline0.6} has been referenced but does not exist,
+ replaced by a fixed one
 
 {/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/share/texlive/
 texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-
@@ -1793,14 +1615,13 @@ cm/cmssi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cms
 y10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb
 ></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/
 share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/s
-hare/texmf/fonts/type1/public/cm-super/sfss0600.pfb></usr/share/texmf/fonts/typ
-e1/public/cm-super/sfss0800.pfb></usr/share/texmf/fonts/type1/public/cm-super/s
-fss1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss1095.pfb></usr/sh
-are/texmf/fonts/type1/public/cm-super/sfss1440.pfb>
-Output written on presentation.pdf (123 pages, 5471396 bytes).
+hare/texmf/fonts/type1/public/cm-super/sfss0800.pfb></usr/share/texmf/fonts/typ
+e1/public/cm-super/sfss1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/s
+fss1095.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss1440.pfb>
+Output written on presentation.pdf (84 pages, 339353 bytes).
 PDF statistics:
- 3323 PDF objects out of 3580 (max. 8388607)
- 3132 compressed objects within 32 object streams
- 252 named destinations out of 1000 (max. 500000)
- 115 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 2297 PDF objects out of 2487 (max. 8388607)
+ 2162 compressed objects within 22 object streams
+ 181 named destinations out of 1000 (max. 500000)
+ 119 words of extra memory for PDF output out of 10000 (max. 10000000)
 

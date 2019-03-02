@@ -26,6 +26,7 @@
 	\only<3->{\addplot+[no marks, domain=0:.6] {-x+.6};}
 	\end{axis}
 	\end{tikzpicture}
+	\only<3->{Data are linearly separable -> Can be divided by a plane}
 
 \end{minipage}
 \hfill
@@ -53,10 +54,15 @@
 			.6,.1,1\\
 			.2,.6,1\\
 		};
+		\only<5->{\addplot+[no marks, domain=0:.6, color=red] {-x+.6};}
+		\only<6->{\addplot+[no marks, domain=0:.6, color=red] {-.8*x+.4};}
+		\only<7->{\addplot+[no marks, domain=.64:.77, color=red] {-5*x+3.8};}
 	\end{axis}
 	\end{tikzpicture}
+	\only<3->{Data is not linearly separable -> Can not be divided by a plane}
 	}
 
 \end{minipage}
+\vfill
 \visible<5->{The algorithm only converges, if the problem is linearly separable.}
 

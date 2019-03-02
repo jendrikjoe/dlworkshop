@@ -1509,3 +1509,1036 @@ WARNING:root:kernel 29970e22-b43b-4fc6-825b-71b90903a9ad restarted
 [I 09:21:25.042 NotebookApp] Saving file at /notebooks/03 Air Pollution.ipynb
 [W 09:21:25.043 NotebookApp] Notebook notebooks/03 Air Pollution.ipynb is not trusted
 [I 09:21:26.226 NotebookApp] Starting buffering for 4bf7c0e9-0ce8-42c4-a3ad-fa58e411373f:150edc4fc6fd4f798351b801bb5a871d
+[I 09:25:01.593 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 09:27:01.589 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 09:27:20.915 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 09:28:44.636 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 09:29:01.589 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 09:29:05.311 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 09:30:00.776 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 09:31:01.585 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 09:32:45.951 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 09:33:01.582 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 09:33:36.719 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 09:35:01.588 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 09:37:01.587 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 09:45:01.606 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 09:45:19.954 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 09:47:01.594 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 09:49:01.587 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 09:51:01.594 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 09:53:01.588 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 09:54:59.749 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 09:55:02.345 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 10:05:01.596 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 10:39:01.614 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 10:41:01.609 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 10:41:37.710 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 10:43:01.606 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 10:44:22.318 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 10:45:01.604 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 10:47:01.603 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 10:47:15.126 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 10:47:34.506 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 10:47:36.606 NotebookApp] Starting buffering for 278e5b65-37c9-47e1-9973-e3038ac4f8d1:65ccde83e11340198850a3df5b66a9b0
+[I 10:47:38.165 NotebookApp] Adapting to protocol v5.1 for kernel 278e5b65-37c9-47e1-9973-e3038ac4f8d1
+[I 10:47:39.028 NotebookApp] Starting buffering for 278e5b65-37c9-47e1-9973-e3038ac4f8d1:7430cb5e02e343d284a228528cf98278
+[I 10:47:43.133 NotebookApp] Adapting to protocol v5.1 for kernel 278e5b65-37c9-47e1-9973-e3038ac4f8d1
+[I 10:49:01.614 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 10:50:22.246 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 10:51:01.607 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 10:51:11.453 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 10:53:01.603 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 10:53:08.401 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 10:53:24.701 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 10:55:01.602 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 10:55:58.395 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 11:01:01.603 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 11:02:03.896 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 11:03:01.602 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 11:05:01.604 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 11:08:17.771 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 11:09:01.601 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 11:09:05.491 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 11:09:07.558 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 11:09:27.273 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 11:09:53.070 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 11:11:01.603 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 11:13:01.602 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 11:15:01.604 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 11:15:04.011 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 11:15:20.541 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 11:15:33.475 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 11:17:01.613 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 11:17:56.356 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 11:19:01.606 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 11:21:01.606 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 11:23:01.609 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 11:25:01.606 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 11:44:13.308 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 11:45:01.613 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 11:47:01.612 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 11:47:02.660 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 11:47:20.593 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 11:52:02.814 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 11:52:13.940 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 11:52:47.754 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 11:53:01.613 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 11:53:03.794 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 11:55:01.613 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 11:57:01.612 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 11:58:41.582 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 12:01:01.613 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 12:03:01.625 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 12:04:14.084 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 12:04:16.898 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 12:05:01.611 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 12:05:07.618 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 12:06:22.530 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 12:06:46.329 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 12:07:01.613 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 12:08:14.190 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 12:09:01.614 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 12:11:01.622 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 12:11:28.809 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 12:12:48.625 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 12:13:02.290 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 12:15:02.297 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 12:17:02.291 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 12:18:50.292 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 12:19:02.289 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 12:19:34.772 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 12:20:00.828 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 12:20:43.916 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 12:21:07.841 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 12:22:59.545 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 12:23:02.294 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 12:23:54.751 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 12:25:02.300 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 12:27:02.300 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 12:29:02.304 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 12:31:02.309 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 12:33:02.306 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 12:35:02.303 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 12:37:59.724 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 12:38:10.128 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 12:39:02.297 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 12:41:02.300 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 12:43:02.301 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 12:45:02.301 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 12:47:02.302 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 12:48:28.947 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 12:49:02.302 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 12:51:02.303 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 12:53:02.303 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 12:55:02.304 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 12:57:02.303 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 12:59:02.307 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 12:59:24.578 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 13:01:02.304 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 13:03:02.314 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 13:03:49.462 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 13:07:02.313 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 13:09:02.313 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 13:09:16.639 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 13:11:02.311 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 13:11:45.769 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 13:13:02.313 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 13:13:48.094 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 13:14:04.390 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 13:15:02.313 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 13:17:02.314 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 13:18:50.460 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 13:19:02.313 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 13:21:02.331 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 13:23:02.318 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 13:23:37.356 NotebookApp] Kernel interrupted: be069c22-c488-404d-b129-a416f871e7b2
+[I 13:25:02.320 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 13:27:02.314 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 13:27:02.967 NotebookApp] Kernel interrupted: be069c22-c488-404d-b129-a416f871e7b2
+[I 13:29:02.319 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 13:31:02.324 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 13:32:26.446 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 13:32:32.480 NotebookApp] Kernel interrupted: be069c22-c488-404d-b129-a416f871e7b2
+[I 13:33:02.322 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 13:33:54.073 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 13:33:56.052 NotebookApp] Kernel interrupted: be069c22-c488-404d-b129-a416f871e7b2
+[I 13:34:58.718 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 13:35:00.765 NotebookApp] Kernel interrupted: be069c22-c488-404d-b129-a416f871e7b2
+[I 13:35:02.325 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 13:35:27.260 NotebookApp] Kernel interrupted: be069c22-c488-404d-b129-a416f871e7b2
+[I 13:37:02.337 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 14:01:02.124 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 14:01:17.907 NotebookApp] Kernel interrupted: be069c22-c488-404d-b129-a416f871e7b2
+[I 14:01:29.635 NotebookApp] Kernel interrupted: be069c22-c488-404d-b129-a416f871e7b2
+[I 14:03:03.287 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 14:03:30.878 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 14:03:31.626 NotebookApp] Kernel interrupted: be069c22-c488-404d-b129-a416f871e7b2
+[I 14:05:03.671 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 14:07:03.684 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 14:07:21.328 NotebookApp] Kernel interrupted: be069c22-c488-404d-b129-a416f871e7b2
+[I 14:07:44.458 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 14:09:03.676 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 14:11:03.692 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 14:13:03.681 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 14:15:03.682 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 14:16:53.370 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 14:17:03.683 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 14:17:59.185 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 14:19:03.681 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 14:21:03.682 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 14:21:23.424 NotebookApp] Kernel interrupted: be069c22-c488-404d-b129-a416f871e7b2
+[I 14:23:03.692 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 14:24:44.094 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 14:25:03.672 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 14:27:03.677 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 14:29:03.677 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 14:38:15.084 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 14:38:20.936 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 14:39:03.868 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 14:41:03.875 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 14:43:03.877 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 14:47:03.879 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 14:49:03.872 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 14:53:03.875 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 16:44:29.074 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 16:45:03.897 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 16:45:26.448 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 16:45:59.080 NotebookApp] Kernel interrupted: be069c22-c488-404d-b129-a416f871e7b2
+[I 16:46:35.414 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 16:46:39.459 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 16:46:51.467 NotebookApp] Kernel interrupted: be069c22-c488-404d-b129-a416f871e7b2
+[I 16:47:03.897 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 16:48:42.700 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 16:48:45.601 NotebookApp] Kernel interrupted: be069c22-c488-404d-b129-a416f871e7b2
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [102,0,0], thread: [64,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [102,0,0], thread: [65,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [102,0,0], thread: [66,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [102,0,0], thread: [67,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [102,0,0], thread: [68,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [102,0,0], thread: [69,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [102,0,0], thread: [70,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [102,0,0], thread: [71,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [102,0,0], thread: [72,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [102,0,0], thread: [73,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [102,0,0], thread: [74,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [102,0,0], thread: [75,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [102,0,0], thread: [76,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [102,0,0], thread: [77,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [102,0,0], thread: [78,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [102,0,0], thread: [79,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [102,0,0], thread: [80,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [102,0,0], thread: [81,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [102,0,0], thread: [82,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [102,0,0], thread: [83,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [102,0,0], thread: [84,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [102,0,0], thread: [85,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [102,0,0], thread: [86,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [102,0,0], thread: [87,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [102,0,0], thread: [88,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [102,0,0], thread: [89,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [102,0,0], thread: [90,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [102,0,0], thread: [91,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [102,0,0], thread: [92,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [102,0,0], thread: [93,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [102,0,0], thread: [94,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [102,0,0], thread: [95,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+[I 16:49:03.894 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 16:49:52.307 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 16:50:20.443 NotebookApp] Starting buffering for be069c22-c488-404d-b129-a416f871e7b2:d54244cffbf94ee490cec81efe435559
+[I 16:50:25.070 NotebookApp] Kernel restarted: be069c22-c488-404d-b129-a416f871e7b2
+[I 16:50:25.522 NotebookApp] Adapting to protocol v5.1 for kernel be069c22-c488-404d-b129-a416f871e7b2
+[I 16:50:25.523 NotebookApp] Restoring connection for be069c22-c488-404d-b129-a416f871e7b2:d54244cffbf94ee490cec81efe435559
+[I 16:50:25.523 NotebookApp] Replaying 10 buffered messages
+[I 16:51:03.886 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 16:53:03.891 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [22,0,0], thread: [64,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [22,0,0], thread: [65,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [22,0,0], thread: [66,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [22,0,0], thread: [67,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [22,0,0], thread: [68,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [22,0,0], thread: [69,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [22,0,0], thread: [70,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [22,0,0], thread: [71,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [22,0,0], thread: [72,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [22,0,0], thread: [73,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [22,0,0], thread: [74,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [22,0,0], thread: [75,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [22,0,0], thread: [76,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [22,0,0], thread: [77,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [22,0,0], thread: [78,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [22,0,0], thread: [79,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [22,0,0], thread: [80,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [22,0,0], thread: [81,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [22,0,0], thread: [82,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [22,0,0], thread: [83,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [22,0,0], thread: [84,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [22,0,0], thread: [85,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [22,0,0], thread: [86,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [22,0,0], thread: [87,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [22,0,0], thread: [88,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [22,0,0], thread: [89,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [22,0,0], thread: [90,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [22,0,0], thread: [91,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [22,0,0], thread: [92,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [22,0,0], thread: [93,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [22,0,0], thread: [94,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [22,0,0], thread: [95,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [80,0,0], thread: [32,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [80,0,0], thread: [33,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [80,0,0], thread: [34,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [80,0,0], thread: [35,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [80,0,0], thread: [36,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [80,0,0], thread: [37,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [80,0,0], thread: [38,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [80,0,0], thread: [39,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [80,0,0], thread: [40,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [80,0,0], thread: [41,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [80,0,0], thread: [42,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [80,0,0], thread: [43,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [80,0,0], thread: [44,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [80,0,0], thread: [45,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [80,0,0], thread: [46,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [80,0,0], thread: [47,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [80,0,0], thread: [48,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [80,0,0], thread: [49,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [80,0,0], thread: [50,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [80,0,0], thread: [51,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [80,0,0], thread: [52,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [80,0,0], thread: [53,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [80,0,0], thread: [54,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [80,0,0], thread: [55,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [80,0,0], thread: [56,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [80,0,0], thread: [57,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [80,0,0], thread: [58,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [80,0,0], thread: [59,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [80,0,0], thread: [60,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [80,0,0], thread: [61,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [80,0,0], thread: [62,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [80,0,0], thread: [63,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [80,0,0], thread: [64,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [80,0,0], thread: [65,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [80,0,0], thread: [66,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [80,0,0], thread: [67,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [80,0,0], thread: [68,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [80,0,0], thread: [69,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [80,0,0], thread: [70,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [80,0,0], thread: [71,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [80,0,0], thread: [72,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [80,0,0], thread: [73,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [80,0,0], thread: [74,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [80,0,0], thread: [75,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [80,0,0], thread: [76,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [80,0,0], thread: [77,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [80,0,0], thread: [78,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [80,0,0], thread: [79,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [80,0,0], thread: [80,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [80,0,0], thread: [81,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [80,0,0], thread: [82,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [80,0,0], thread: [83,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [80,0,0], thread: [84,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [80,0,0], thread: [85,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [80,0,0], thread: [86,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [80,0,0], thread: [87,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [80,0,0], thread: [88,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [80,0,0], thread: [89,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [80,0,0], thread: [90,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [80,0,0], thread: [91,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [80,0,0], thread: [92,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [80,0,0], thread: [93,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [80,0,0], thread: [94,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [80,0,0], thread: [95,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [78,0,0], thread: [96,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [78,0,0], thread: [97,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [78,0,0], thread: [98,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [78,0,0], thread: [99,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [78,0,0], thread: [100,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [78,0,0], thread: [101,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [78,0,0], thread: [102,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [78,0,0], thread: [103,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [78,0,0], thread: [104,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [78,0,0], thread: [105,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [78,0,0], thread: [106,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [78,0,0], thread: [107,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [78,0,0], thread: [108,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [78,0,0], thread: [109,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [78,0,0], thread: [110,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [78,0,0], thread: [111,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [78,0,0], thread: [112,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [78,0,0], thread: [113,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [78,0,0], thread: [114,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [78,0,0], thread: [115,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [78,0,0], thread: [116,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [78,0,0], thread: [117,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [78,0,0], thread: [118,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [78,0,0], thread: [119,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [78,0,0], thread: [120,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [78,0,0], thread: [121,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [78,0,0], thread: [122,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [78,0,0], thread: [123,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [78,0,0], thread: [124,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [78,0,0], thread: [125,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [78,0,0], thread: [126,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [78,0,0], thread: [127,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [78,0,0], thread: [64,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [78,0,0], thread: [65,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [78,0,0], thread: [66,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [78,0,0], thread: [67,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [78,0,0], thread: [68,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [78,0,0], thread: [69,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [78,0,0], thread: [70,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [78,0,0], thread: [71,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [78,0,0], thread: [72,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [78,0,0], thread: [73,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [78,0,0], thread: [74,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [78,0,0], thread: [75,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [78,0,0], thread: [76,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [78,0,0], thread: [77,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [78,0,0], thread: [78,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [78,0,0], thread: [79,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [78,0,0], thread: [80,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [78,0,0], thread: [81,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [78,0,0], thread: [82,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [78,0,0], thread: [83,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [78,0,0], thread: [84,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [78,0,0], thread: [85,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [78,0,0], thread: [86,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [78,0,0], thread: [87,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [78,0,0], thread: [88,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [78,0,0], thread: [89,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [78,0,0], thread: [90,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [78,0,0], thread: [91,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [78,0,0], thread: [92,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [78,0,0], thread: [93,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [78,0,0], thread: [94,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [78,0,0], thread: [95,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [78,0,0], thread: [32,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [78,0,0], thread: [33,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [78,0,0], thread: [34,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [78,0,0], thread: [35,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [78,0,0], thread: [36,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [78,0,0], thread: [37,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [78,0,0], thread: [38,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [78,0,0], thread: [39,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [78,0,0], thread: [40,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [78,0,0], thread: [41,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [78,0,0], thread: [42,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [78,0,0], thread: [43,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [78,0,0], thread: [44,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [78,0,0], thread: [45,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [78,0,0], thread: [46,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [78,0,0], thread: [47,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [78,0,0], thread: [48,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [78,0,0], thread: [49,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [78,0,0], thread: [50,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [78,0,0], thread: [51,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [78,0,0], thread: [52,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [78,0,0], thread: [53,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [78,0,0], thread: [54,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [78,0,0], thread: [55,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [78,0,0], thread: [56,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [78,0,0], thread: [57,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [78,0,0], thread: [58,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [78,0,0], thread: [59,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [78,0,0], thread: [60,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [78,0,0], thread: [61,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [78,0,0], thread: [62,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [78,0,0], thread: [63,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [78,0,0], thread: [0,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [78,0,0], thread: [1,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [78,0,0], thread: [2,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [78,0,0], thread: [3,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [78,0,0], thread: [4,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [78,0,0], thread: [5,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [78,0,0], thread: [6,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [78,0,0], thread: [7,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [78,0,0], thread: [8,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [78,0,0], thread: [9,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [78,0,0], thread: [10,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [78,0,0], thread: [11,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [78,0,0], thread: [12,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [78,0,0], thread: [13,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [78,0,0], thread: [14,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [78,0,0], thread: [15,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [78,0,0], thread: [16,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [78,0,0], thread: [17,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [78,0,0], thread: [18,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [78,0,0], thread: [19,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [78,0,0], thread: [20,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [78,0,0], thread: [21,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [78,0,0], thread: [22,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [78,0,0], thread: [23,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [78,0,0], thread: [24,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [78,0,0], thread: [25,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [78,0,0], thread: [26,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [78,0,0], thread: [27,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [78,0,0], thread: [28,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [78,0,0], thread: [29,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [78,0,0], thread: [30,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [78,0,0], thread: [31,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [24,0,0], thread: [96,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [24,0,0], thread: [97,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [24,0,0], thread: [98,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [24,0,0], thread: [99,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [24,0,0], thread: [100,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [24,0,0], thread: [101,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [24,0,0], thread: [102,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [24,0,0], thread: [103,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [24,0,0], thread: [104,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [24,0,0], thread: [105,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [24,0,0], thread: [106,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [24,0,0], thread: [107,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [24,0,0], thread: [108,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [24,0,0], thread: [109,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [24,0,0], thread: [110,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [24,0,0], thread: [111,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [24,0,0], thread: [112,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [24,0,0], thread: [113,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [24,0,0], thread: [114,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [24,0,0], thread: [115,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [24,0,0], thread: [116,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [24,0,0], thread: [117,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [24,0,0], thread: [118,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [24,0,0], thread: [119,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [24,0,0], thread: [120,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [24,0,0], thread: [121,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [24,0,0], thread: [122,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [24,0,0], thread: [123,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [24,0,0], thread: [124,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [24,0,0], thread: [125,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [24,0,0], thread: [126,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [24,0,0], thread: [127,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [80,0,0], thread: [0,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [80,0,0], thread: [1,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [80,0,0], thread: [2,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [80,0,0], thread: [3,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [80,0,0], thread: [4,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [80,0,0], thread: [5,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [80,0,0], thread: [6,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [80,0,0], thread: [7,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [80,0,0], thread: [8,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [80,0,0], thread: [9,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [80,0,0], thread: [10,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [80,0,0], thread: [11,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [80,0,0], thread: [12,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [80,0,0], thread: [13,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [80,0,0], thread: [14,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [80,0,0], thread: [15,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [80,0,0], thread: [16,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [80,0,0], thread: [17,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [80,0,0], thread: [18,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [80,0,0], thread: [19,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [80,0,0], thread: [20,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [80,0,0], thread: [21,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [80,0,0], thread: [22,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [80,0,0], thread: [23,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [80,0,0], thread: [24,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [80,0,0], thread: [25,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [80,0,0], thread: [26,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [80,0,0], thread: [27,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [80,0,0], thread: [28,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [80,0,0], thread: [29,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [80,0,0], thread: [30,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [80,0,0], thread: [31,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+[I 16:59:03.901 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 17:01:03.897 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 17:01:12.236 NotebookApp] Kernel interrupted: be069c22-c488-404d-b129-a416f871e7b2
+[I 17:01:12.386 NotebookApp] Kernel interrupted: be069c22-c488-404d-b129-a416f871e7b2
+[I 17:01:12.535 NotebookApp] Kernel interrupted: be069c22-c488-404d-b129-a416f871e7b2
+[I 17:01:12.714 NotebookApp] Kernel interrupted: be069c22-c488-404d-b129-a416f871e7b2
+[I 17:01:12.897 NotebookApp] Kernel interrupted: be069c22-c488-404d-b129-a416f871e7b2
+[I 17:01:15.770 NotebookApp] Starting buffering for be069c22-c488-404d-b129-a416f871e7b2:d54244cffbf94ee490cec81efe435559
+[I 17:01:17.892 NotebookApp] Kernel restarted: be069c22-c488-404d-b129-a416f871e7b2
+[I 17:01:18.288 NotebookApp] Adapting to protocol v5.1 for kernel be069c22-c488-404d-b129-a416f871e7b2
+[I 17:01:18.289 NotebookApp] Restoring connection for be069c22-c488-404d-b129-a416f871e7b2:d54244cffbf94ee490cec81efe435559
+[I 17:01:18.289 NotebookApp] Replaying 10 buffered messages
+[I 17:03:03.895 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 17:47:03.907 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 17:49:03.904 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 17:50:35.726 NotebookApp] Starting buffering for be069c22-c488-404d-b129-a416f871e7b2:d54244cffbf94ee490cec81efe435559
+[I 17:50:37.750 NotebookApp] Kernel restarted: be069c22-c488-404d-b129-a416f871e7b2
+[I 17:50:38.137 NotebookApp] Adapting to protocol v5.1 for kernel be069c22-c488-404d-b129-a416f871e7b2
+[I 17:50:38.138 NotebookApp] Restoring connection for be069c22-c488-404d-b129-a416f871e7b2:d54244cffbf94ee490cec81efe435559
+[I 17:50:38.138 NotebookApp] Replaying 7 buffered messages
+[I 17:51:01.310 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 17:52:58.793 NotebookApp] Starting buffering for be069c22-c488-404d-b129-a416f871e7b2:d54244cffbf94ee490cec81efe435559
+[I 17:53:02.620 NotebookApp] Kernel restarted: be069c22-c488-404d-b129-a416f871e7b2
+[I 17:53:03.013 NotebookApp] Adapting to protocol v5.1 for kernel be069c22-c488-404d-b129-a416f871e7b2
+[I 17:53:03.015 NotebookApp] Restoring connection for be069c22-c488-404d-b129-a416f871e7b2:d54244cffbf94ee490cec81efe435559
+[I 17:53:03.015 NotebookApp] Replaying 10 buffered messages
+[I 17:53:03.937 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 17:53:44.305 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [75,0,0], thread: [96,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [75,0,0], thread: [97,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [75,0,0], thread: [98,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [75,0,0], thread: [99,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [575,0,0], thread: [96,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [575,0,0], thread: [97,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [575,0,0], thread: [98,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:53: lambda [](int)->auto::operator()(int)->auto: block: [575,0,0], thread: [99,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+[C 17:54:09.578 NotebookApp] received signal 15, stopping
+[I 17:54:09.589 NotebookApp] Shutting down 8 kernels
+[C 17:54:09.770 NotebookApp] received signal 15, stopping
+[I 17:54:10.080 NotebookApp] Shutting down 0 kernels
+[I 17:54:10.713 NotebookApp] Kernel shutdown: 29970e22-b43b-4fc6-825b-71b90903a9ad
+[I 17:54:10.713 NotebookApp] Kernel shutdown: 278e5b65-37c9-47e1-9973-e3038ac4f8d1
+[I 17:54:10.714 NotebookApp] Kernel shutdown: c969a426-b927-4bb5-8150-d3beef2dfd4a
+[I 17:54:10.714 NotebookApp] Kernel shutdown: ded95e62-b47a-48e6-8500-7badf8ab886a
+[I 17:54:11.016 NotebookApp] Kernel shutdown: be069c22-c488-404d-b129-a416f871e7b2
+[I 17:54:11.016 NotebookApp] Kernel shutdown: 9ff42d2a-07e9-4c2d-b876-22cf58c24ad1
+[I 17:54:11.016 NotebookApp] Kernel shutdown: 5abbf1b2-c3f5-48e5-9890-709680355dd0
+[I 17:54:11.017 NotebookApp] Kernel shutdown: 4bf7c0e9-0ce8-42c4-a3ad-fa58e411373f
+[I 20:47:05.684 NotebookApp] The port 8888 is already in use, trying another port.
+[I 20:47:05.687 NotebookApp] Serving notebooks from local directory: /home/jendrik/git/dlworkshop
+[I 20:47:05.687 NotebookApp] The Jupyter Notebook is running at:
+[I 20:47:05.687 NotebookApp] http://localhost:8889/?token=7bff77aba64fea79157bf7ceaec3bd36476bdc36f40d7c12
+[I 20:47:05.687 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 20:47:05.690 NotebookApp] No web browser found: could not locate runnable browser.
+[C 20:47:05.690 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///run/user/1000/jupyter/nbserver-6948-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8889/?token=7bff77aba64fea79157bf7ceaec3bd36476bdc36f40d7c12
+[C 20:47:28.536 NotebookApp] received signal 15, stopping
+[I 20:47:28.537 NotebookApp] Shutting down 0 kernels
+[I 20:47:49.690 NotebookApp] Serving notebooks from local directory: /home/jendrik/git/dlworkshop
+[I 20:47:49.690 NotebookApp] The Jupyter Notebook is running at:
+[I 20:47:49.690 NotebookApp] http://localhost:8888/?token=2248492e01b83e85c226196b94821d57d5ab9c296a193880
+[I 20:47:49.690 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 20:47:49.692 NotebookApp] No web browser found: could not locate runnable browser.
+[C 20:47:49.692 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///run/user/1000/jupyter/nbserver-7133-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=2248492e01b83e85c226196b94821d57d5ab9c296a193880
+[I 20:47:54.907 NotebookApp] 302 GET /?token=2248492e01b83e85c226196b94821d57d5ab9c296a193880 (127.0.0.1) 1.06ms
+[I 20:48:03.950 NotebookApp] Kernel started: fef4cb1f-e91e-4866-8667-360086a7dc9a
+[I 20:48:04.348 NotebookApp] Adapting to protocol v5.1 for kernel fef4cb1f-e91e-4866-8667-360086a7dc9a
+[I 20:48:13.331 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 20:49:36.414 NotebookApp] Kernel started: f15bbc79-cab7-4c82-aaed-4d9858d81a3d
+[I 20:49:36.781 NotebookApp] Adapting to protocol v5.1 for kernel f15bbc79-cab7-4c82-aaed-4d9858d81a3d
+[I 20:50:04.103 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 20:52:04.627 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 20:54:04.654 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 20:55:43.375 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 20:56:04.626 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 20:56:14.629 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 20:56:23.496 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 20:57:09.981 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 20:58:04.616 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 21:00:04.654 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 21:02:04.668 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 21:07:41.117 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 21:07:49.895 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 21:08:04.830 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 21:10:04.638 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 21:11:03.503 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 21:12:07.731 NotebookApp] Kernel interrupted: fef4cb1f-e91e-4866-8667-360086a7dc9a
+[I 21:14:04.640 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 21:18:08.781 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 21:18:29.486 NotebookApp] Kernel interrupted: fef4cb1f-e91e-4866-8667-360086a7dc9a
+[I 21:18:39.654 NotebookApp] Kernel interrupted: fef4cb1f-e91e-4866-8667-360086a7dc9a
+[I 21:20:04.636 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 21:22:05.666 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 21:24:06.173 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 21:42:04.649 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 21:48:05.774 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 21:48:24.131 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 21:48:30.365 NotebookApp] Kernel interrupted: fef4cb1f-e91e-4866-8667-360086a7dc9a
+[I 21:49:22.921 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 21:49:59.712 NotebookApp] Kernel interrupted: fef4cb1f-e91e-4866-8667-360086a7dc9a
+[I 21:50:05.086 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 21:50:18.798 NotebookApp] Kernel interrupted: fef4cb1f-e91e-4866-8667-360086a7dc9a
+[I 21:50:31.475 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 21:52:11.281 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 22:05:08.142 NotebookApp] 302 GET /tree/notebooks (127.0.0.1) 1.00ms
+[I 22:05:27.972 NotebookApp] Starting buffering for fef4cb1f-e91e-4866-8667-360086a7dc9a:efb8aab79a1a41028d9d29859d1cd9b3
+[W 22:05:35.362 NotebookApp] Notebook notebooks/Chatbot.ipynb is not trusted
+[I 22:05:54.859 NotebookApp] Adapting to protocol v5.1 for kernel fef4cb1f-e91e-4866-8667-360086a7dc9a
+[I 22:05:54.860 NotebookApp] Discarding 340 buffered messages for fef4cb1f-e91e-4866-8667-360086a7dc9a:efb8aab79a1a41028d9d29859d1cd9b3
+[I 22:06:03.938 NotebookApp] Starting buffering for fef4cb1f-e91e-4866-8667-360086a7dc9a:fa5955cc6f7c403281ddb70b7251f337
+[I 22:06:05.865 NotebookApp] Kernel restarted: fef4cb1f-e91e-4866-8667-360086a7dc9a
+[I 22:06:08.396 NotebookApp] Adapting to protocol v5.1 for kernel fef4cb1f-e91e-4866-8667-360086a7dc9a
+[I 22:06:08.398 NotebookApp] Restoring connection for fef4cb1f-e91e-4866-8667-360086a7dc9a:fa5955cc6f7c403281ddb70b7251f337
+[I 22:06:08.398 NotebookApp] Replaying 10 buffered messages
+[I 22:06:51.926 NotebookApp] Kernel interrupted: fef4cb1f-e91e-4866-8667-360086a7dc9a
+[I 22:07:51.735 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 22:08:58.990 NotebookApp] Kernel interrupted: fef4cb1f-e91e-4866-8667-360086a7dc9a
+[I 22:09:52.129 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 22:10:37.202 NotebookApp] Kernel interrupted: fef4cb1f-e91e-4866-8667-360086a7dc9a
+[I 22:11:51.724 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 22:12:31.662 NotebookApp] Kernel interrupted: fef4cb1f-e91e-4866-8667-360086a7dc9a
+[I 22:13:51.737 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 22:22:31.340 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 22:22:31.683 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 22:23:08.742 NotebookApp] Kernel interrupted: fef4cb1f-e91e-4866-8667-360086a7dc9a
+[I 22:23:51.827 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 22:25:25.858 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 22:25:44.528 NotebookApp] Kernel interrupted: fef4cb1f-e91e-4866-8667-360086a7dc9a
+[I 22:25:51.613 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 22:26:20.210 NotebookApp] Kernel interrupted: fef4cb1f-e91e-4866-8667-360086a7dc9a
+[I 22:27:51.529 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 22:29:51.573 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 22:31:51.630 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 22:33:07.157 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 22:33:51.557 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 22:35:51.576 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 22:37:51.584 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 22:41:51.566 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 22:43:51.656 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 22:45:46.296 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 22:47:03.370 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 22:47:51.567 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 22:49:29.535 NotebookApp] Kernel started: cace2964-09ff-4570-a8e0-406d3efed548
+[I 22:49:29.949 NotebookApp] Adapting to protocol v5.1 for kernel cace2964-09ff-4570-a8e0-406d3efed548
+[I 22:49:51.603 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 22:51:51.555 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 22:53:51.569 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 22:55:51.569 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 22:56:14.098 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 22:57:14.589 NotebookApp] Kernel interrupted: fef4cb1f-e91e-4866-8667-360086a7dc9a
+[I 22:57:51.577 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 23:01:51.677 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 23:03:52.001 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 23:05:18.116 NotebookApp] Kernel interrupted: fef4cb1f-e91e-4866-8667-360086a7dc9a
+[I 23:05:51.556 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 23:07:51.656 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 23:09:28.896 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 23:09:51.704 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 23:11:52.646 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 23:13:52.673 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 23:15:24.603 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 23:15:31.402 NotebookApp] Kernel interrupted: fef4cb1f-e91e-4866-8667-360086a7dc9a
+[I 23:15:52.633 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 23:25:22.905 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 23:25:52.630 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 23:26:10.349 NotebookApp] Kernel interrupted: fef4cb1f-e91e-4866-8667-360086a7dc9a
+[I 23:27:52.646 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 23:33:52.750 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 23:35:40.979 NotebookApp] Kernel interrupted: fef4cb1f-e91e-4866-8667-360086a7dc9a
+[I 23:35:52.625 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 23:36:26.417 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 23:37:52.721 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 23:39:52.736 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 23:41:52.677 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 23:45:52.667 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 23:47:17.281 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 23:47:52.661 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 23:49:52.670 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 23:50:02.031 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 23:50:22.610 NotebookApp] Kernel interrupted: fef4cb1f-e91e-4866-8667-360086a7dc9a
+[I 23:51:10.290 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 23:51:19.644 NotebookApp] Kernel interrupted: fef4cb1f-e91e-4866-8667-360086a7dc9a
+[I 23:51:28.665 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 23:51:52.675 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 23:53:52.753 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 23:55:52.663 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 23:57:52.676 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 23:59:52.665 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 00:19:53.614 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 00:21:53.653 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 00:23:53.690 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 00:24:39.078 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 00:24:45.675 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 00:25:13.586 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 00:25:53.615 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 00:27:53.618 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 00:29:53.629 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 00:31:53.636 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 00:32:13.127 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 00:33:27.045 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 00:33:53.657 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 00:35:53.930 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 00:37:53.978 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 00:39:53.736 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 00:41:53.834 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 00:43:53.716 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 00:45:54.529 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 00:46:19.520 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 00:46:26.261 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 00:47:43.194 NotebookApp] Kernel interrupted: fef4cb1f-e91e-4866-8667-360086a7dc9a
+[I 00:47:54.612 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 00:49:54.543 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 00:51:54.630 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 00:52:34.757 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 00:53:54.663 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 00:53:54.847 NotebookApp] Kernel interrupted: fef4cb1f-e91e-4866-8667-360086a7dc9a
+[I 00:55:54.744 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 00:57:05.937 NotebookApp] Kernel interrupted: fef4cb1f-e91e-4866-8667-360086a7dc9a
+[I 00:57:54.788 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 00:59:54.785 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 01:01:33.201 NotebookApp] Kernel interrupted: fef4cb1f-e91e-4866-8667-360086a7dc9a
+[I 01:01:54.659 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 01:03:54.805 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 01:05:24.262 NotebookApp] Kernel interrupted: fef4cb1f-e91e-4866-8667-360086a7dc9a
+[I 01:05:33.630 NotebookApp] Kernel interrupted: fef4cb1f-e91e-4866-8667-360086a7dc9a
+[I 01:05:54.828 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 01:06:02.800 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 01:06:55.192 NotebookApp] Kernel interrupted: fef4cb1f-e91e-4866-8667-360086a7dc9a
+[I 01:06:59.279 NotebookApp] Kernel interrupted: fef4cb1f-e91e-4866-8667-360086a7dc9a
+[I 01:07:55.800 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 01:09:20.317 NotebookApp] Kernel interrupted: fef4cb1f-e91e-4866-8667-360086a7dc9a
+[I 01:09:55.642 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 01:10:02.860 NotebookApp] Kernel interrupted: fef4cb1f-e91e-4866-8667-360086a7dc9a
+[I 01:11:56.433 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 01:13:57.308 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 01:15:26.837 NotebookApp] Kernel interrupted: fef4cb1f-e91e-4866-8667-360086a7dc9a
+[I 01:15:57.397 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 01:16:01.378 NotebookApp] Kernel interrupted: fef4cb1f-e91e-4866-8667-360086a7dc9a
+[I 01:17:57.014 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 01:19:57.116 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 01:21:05.127 NotebookApp] Kernel interrupted: fef4cb1f-e91e-4866-8667-360086a7dc9a
+[I 01:21:20.935 NotebookApp] Kernel interrupted: fef4cb1f-e91e-4866-8667-360086a7dc9a
+[I 01:21:34.801 NotebookApp] Kernel interrupted: fef4cb1f-e91e-4866-8667-360086a7dc9a
+[I 01:21:57.863 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 01:22:29.482 NotebookApp] Kernel interrupted: fef4cb1f-e91e-4866-8667-360086a7dc9a
+[I 01:23:35.878 NotebookApp] Kernel interrupted: fef4cb1f-e91e-4866-8667-360086a7dc9a
+[I 01:23:57.891 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 01:23:57.947 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 01:24:53.053 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 01:25:58.827 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 01:27:58.909 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 01:29:58.993 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 01:31:58.983 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 01:33:59.013 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 01:35:58.825 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 01:37:58.897 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 01:39:58.843 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 01:41:58.883 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 01:43:58.930 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 01:45:59.703 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 01:48:02.170 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 01:50:03.398 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 01:51:59.508 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 01:52:01.848 NotebookApp] Kernel interrupted: fef4cb1f-e91e-4866-8667-360086a7dc9a
+[I 01:52:30.399 NotebookApp] Kernel interrupted: fef4cb1f-e91e-4866-8667-360086a7dc9a
+[I 01:53:05.551 NotebookApp] Kernel interrupted: fef4cb1f-e91e-4866-8667-360086a7dc9a
+[I 01:54:28.981 NotebookApp] Starting buffering for fef4cb1f-e91e-4866-8667-360086a7dc9a:fa5955cc6f7c403281ddb70b7251f337
+[I 01:54:28.981 NotebookApp] Starting buffering for f15bbc79-cab7-4c82-aaed-4d9858d81a3d:09bae5da9b48475483a4fd028735616f
+[I 01:54:28.982 NotebookApp] Starting buffering for cace2964-09ff-4570-a8e0-406d3efed548:4624c1b42428433896ebbcf40f2af155
+[I 01:54:47.507 NotebookApp] Adapting to protocol v5.1 for kernel f15bbc79-cab7-4c82-aaed-4d9858d81a3d
+[I 01:54:47.509 NotebookApp] Restoring connection for f15bbc79-cab7-4c82-aaed-4d9858d81a3d:09bae5da9b48475483a4fd028735616f
+[I 01:54:47.519 NotebookApp] Adapting to protocol v5.1 for kernel cace2964-09ff-4570-a8e0-406d3efed548
+[I 01:54:47.520 NotebookApp] Restoring connection for cace2964-09ff-4570-a8e0-406d3efed548:4624c1b42428433896ebbcf40f2af155
+[I 01:54:48.657 NotebookApp] Adapting to protocol v5.1 for kernel fef4cb1f-e91e-4866-8667-360086a7dc9a
+[I 01:54:48.661 NotebookApp] Restoring connection for fef4cb1f-e91e-4866-8667-360086a7dc9a:fa5955cc6f7c403281ddb70b7251f337
+[I 01:54:48.703 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 01:55:04.094 NotebookApp] Kernel interrupted: fef4cb1f-e91e-4866-8667-360086a7dc9a
+[I 01:55:59.874 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 01:58:00.601 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 02:00:00.604 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 02:02:01.607 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 02:04:01.612 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 02:05:33.538 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 02:06:01.571 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 02:08:01.598 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 02:09:12.114 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 02:09:17.167 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 02:10:01.558 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 02:12:01.641 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 02:14:01.661 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 02:16:01.716 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 02:18:01.755 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 02:20:01.721 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 02:22:01.886 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 02:22:35.493 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 02:23:13.325 NotebookApp] Kernel started: 8a1487cc-703c-45d1-a94d-bea1a11cff93
+[I 02:23:13.780 NotebookApp] Adapting to protocol v5.1 for kernel 8a1487cc-703c-45d1-a94d-bea1a11cff93
+[I 02:23:59.293 NotebookApp] Starting buffering for cace2964-09ff-4570-a8e0-406d3efed548:4624c1b42428433896ebbcf40f2af155
+[I 02:24:01.838 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 02:25:41.295 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 02:26:01.816 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 02:27:13.334 NotebookApp] Saving file at /notebooks/Fetch Southpark Scripts.ipynb
+[I 02:28:01.803 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 02:28:47.984 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 02:30:01.911 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 02:32:01.526 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 02:33:13.349 NotebookApp] Saving file at /notebooks/Fetch Southpark Scripts.ipynb
+[I 02:34:01.522 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 02:35:13.354 NotebookApp] Saving file at /notebooks/Fetch Southpark Scripts.ipynb
+[I 02:36:01.535 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 02:36:37.172 NotebookApp] Kernel interrupted: fef4cb1f-e91e-4866-8667-360086a7dc9a
+[I 02:37:07.883 NotebookApp] Kernel interrupted: fef4cb1f-e91e-4866-8667-360086a7dc9a
+[I 02:37:13.359 NotebookApp] Saving file at /notebooks/Fetch Southpark Scripts.ipynb
+[I 02:38:01.551 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 02:40:01.562 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 02:40:07.764 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 02:42:01.625 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[W 02:44:13.782 NotebookApp] WebSocket ping timeout after 119701 ms.
+[W 02:44:17.509 NotebookApp] WebSocket ping timeout after 119997 ms.
+[W 02:44:18.662 NotebookApp] WebSocket ping timeout after 119997 ms.
+[E 02:44:18.768 NotebookApp] Uncaught exception in ZMQStream callback
+    Traceback (most recent call last):
+      File "/home/jendrik/.local/share/virtualenvs/dlworkshop-VuPJaqFs/lib/python3.7/site-packages/zmq/eventloop/zmqstream.py", line 438, in _run_callback
+        callback(*args, **kwargs)
+      File "/home/jendrik/.local/share/virtualenvs/dlworkshop-VuPJaqFs/lib/python3.7/site-packages/tornado/stack_context.py", line 300, in null_wrapper
+        return fn(*args, **kwargs)
+      File "/home/jendrik/.local/share/virtualenvs/dlworkshop-VuPJaqFs/lib/python3.7/site-packages/zmq/eventloop/zmqstream.py", line 203, in <lambda>
+        self.on_recv(lambda msg: callback(self, msg), copy=copy)
+      File "/home/jendrik/.local/share/virtualenvs/dlworkshop-VuPJaqFs/lib/python3.7/site-packages/notebook/services/kernels/handlers.py", line 419, in _on_zmq_reply
+        super(ZMQChannelsHandler, self)._on_zmq_reply(stream, msg)
+      File "/home/jendrik/.local/share/virtualenvs/dlworkshop-VuPJaqFs/lib/python3.7/site-packages/notebook/base/zmqhandlers.py", line 250, in _on_zmq_reply
+        self.write_message(msg, binary=isinstance(msg, bytes))
+      File "/home/jendrik/.local/share/virtualenvs/dlworkshop-VuPJaqFs/lib/python3.7/site-packages/tornado/websocket.py", line 259, in write_message
+        raise WebSocketClosedError()
+    tornado.websocket.WebSocketClosedError
+[E 02:44:18.786 NotebookApp] Uncaught exception in zmqstream callback
+    Traceback (most recent call last):
+      File "/home/jendrik/.local/share/virtualenvs/dlworkshop-VuPJaqFs/lib/python3.7/site-packages/zmq/eventloop/zmqstream.py", line 456, in _handle_events
+        self._handle_recv()
+      File "/home/jendrik/.local/share/virtualenvs/dlworkshop-VuPJaqFs/lib/python3.7/site-packages/zmq/eventloop/zmqstream.py", line 486, in _handle_recv
+        self._run_callback(callback, msg)
+      File "/home/jendrik/.local/share/virtualenvs/dlworkshop-VuPJaqFs/lib/python3.7/site-packages/zmq/eventloop/zmqstream.py", line 438, in _run_callback
+        callback(*args, **kwargs)
+      File "/home/jendrik/.local/share/virtualenvs/dlworkshop-VuPJaqFs/lib/python3.7/site-packages/tornado/stack_context.py", line 300, in null_wrapper
+        return fn(*args, **kwargs)
+      File "/home/jendrik/.local/share/virtualenvs/dlworkshop-VuPJaqFs/lib/python3.7/site-packages/zmq/eventloop/zmqstream.py", line 203, in <lambda>
+        self.on_recv(lambda msg: callback(self, msg), copy=copy)
+      File "/home/jendrik/.local/share/virtualenvs/dlworkshop-VuPJaqFs/lib/python3.7/site-packages/notebook/services/kernels/handlers.py", line 419, in _on_zmq_reply
+        super(ZMQChannelsHandler, self)._on_zmq_reply(stream, msg)
+      File "/home/jendrik/.local/share/virtualenvs/dlworkshop-VuPJaqFs/lib/python3.7/site-packages/notebook/base/zmqhandlers.py", line 250, in _on_zmq_reply
+        self.write_message(msg, binary=isinstance(msg, bytes))
+      File "/home/jendrik/.local/share/virtualenvs/dlworkshop-VuPJaqFs/lib/python3.7/site-packages/tornado/websocket.py", line 259, in write_message
+        raise WebSocketClosedError()
+    tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Exception in callback BaseAsyncIOLoop._handle_events(33, 1)
+handle: <Handle BaseAsyncIOLoop._handle_events(33, 1)>
+Traceback (most recent call last):
+  File "/home/jendrik/.pyenv/versions/3.7.1/lib/python3.7/asyncio/events.py", line 88, in _run
+    self._context.run(self._callback, *self._args)
+  File "/home/jendrik/.local/share/virtualenvs/dlworkshop-VuPJaqFs/lib/python3.7/site-packages/tornado/platform/asyncio.py", line 122, in _handle_events
+    handler_func(fileobj, events)
+  File "/home/jendrik/.local/share/virtualenvs/dlworkshop-VuPJaqFs/lib/python3.7/site-packages/tornado/stack_context.py", line 300, in null_wrapper
+    return fn(*args, **kwargs)
+  File "/home/jendrik/.local/share/virtualenvs/dlworkshop-VuPJaqFs/lib/python3.7/site-packages/zmq/eventloop/zmqstream.py", line 456, in _handle_events
+    self._handle_recv()
+  File "/home/jendrik/.local/share/virtualenvs/dlworkshop-VuPJaqFs/lib/python3.7/site-packages/zmq/eventloop/zmqstream.py", line 486, in _handle_recv
+    self._run_callback(callback, msg)
+  File "/home/jendrik/.local/share/virtualenvs/dlworkshop-VuPJaqFs/lib/python3.7/site-packages/zmq/eventloop/zmqstream.py", line 438, in _run_callback
+    callback(*args, **kwargs)
+  File "/home/jendrik/.local/share/virtualenvs/dlworkshop-VuPJaqFs/lib/python3.7/site-packages/tornado/stack_context.py", line 300, in null_wrapper
+    return fn(*args, **kwargs)
+  File "/home/jendrik/.local/share/virtualenvs/dlworkshop-VuPJaqFs/lib/python3.7/site-packages/zmq/eventloop/zmqstream.py", line 203, in <lambda>
+    self.on_recv(lambda msg: callback(self, msg), copy=copy)
+  File "/home/jendrik/.local/share/virtualenvs/dlworkshop-VuPJaqFs/lib/python3.7/site-packages/notebook/services/kernels/handlers.py", line 419, in _on_zmq_reply
+    super(ZMQChannelsHandler, self)._on_zmq_reply(stream, msg)
+  File "/home/jendrik/.local/share/virtualenvs/dlworkshop-VuPJaqFs/lib/python3.7/site-packages/notebook/base/zmqhandlers.py", line 250, in _on_zmq_reply
+    self.write_message(msg, binary=isinstance(msg, bytes))
+  File "/home/jendrik/.local/share/virtualenvs/dlworkshop-VuPJaqFs/lib/python3.7/site-packages/tornado/websocket.py", line 259, in write_message
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+[I 02:44:18.790 NotebookApp] Starting buffering for 8a1487cc-703c-45d1-a94d-bea1a11cff93:5cf4e8653d7a4c4a8b974e4bc3e327ea
+[I 02:44:22.511 NotebookApp] Starting buffering for f15bbc79-cab7-4c82-aaed-4d9858d81a3d:09bae5da9b48475483a4fd028735616f
+[I 02:44:23.664 NotebookApp] Starting buffering for fef4cb1f-e91e-4866-8667-360086a7dc9a:fa5955cc6f7c403281ddb70b7251f337
+[I 10:53:39.329 NotebookApp] Adapting to protocol v5.1 for kernel f15bbc79-cab7-4c82-aaed-4d9858d81a3d
+[I 10:53:39.330 NotebookApp] Restoring connection for f15bbc79-cab7-4c82-aaed-4d9858d81a3d:09bae5da9b48475483a4fd028735616f
+[I 10:53:39.346 NotebookApp] Adapting to protocol v5.1 for kernel 8a1487cc-703c-45d1-a94d-bea1a11cff93
+[I 10:53:39.348 NotebookApp] Restoring connection for 8a1487cc-703c-45d1-a94d-bea1a11cff93:5cf4e8653d7a4c4a8b974e4bc3e327ea
+[I 10:53:39.361 NotebookApp] Adapting to protocol v5.1 for kernel fef4cb1f-e91e-4866-8667-360086a7dc9a
+[I 10:53:39.362 NotebookApp] Restoring connection for fef4cb1f-e91e-4866-8667-360086a7dc9a:fa5955cc6f7c403281ddb70b7251f337
+[I 10:53:39.362 NotebookApp] Replaying 5842 buffered messages
+[W 10:53:40.245 NotebookApp] IOPub message rate exceeded.
+    The notebook server will temporarily stop sending output
+    to the client in order to avoid crashing it.
+    To change this limit, set the config variable
+    `--NotebookApp.iopub_msg_rate_limit`.
+    
+    Current values:
+    NotebookApp.iopub_msg_rate_limit=1000.0 (msgs/sec)
+    NotebookApp.rate_limit_window=3.0 (secs)
+    
+[I 10:54:11.599 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 10:55:27.488 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 10:57:27.563 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 10:59:27.606 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 11:01:27.659 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 11:03:27.675 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[W 11:05:00.910 NotebookApp] Notebook notebooks/01 Perceptron.ipynb is not trusted
+[I 11:05:01.747 NotebookApp] Kernel started: 5b27e1d1-c09b-485c-9411-10c729ce64d8
+[I 11:05:02.156 NotebookApp] Adapting to protocol v5.1 for kernel 5b27e1d1-c09b-485c-9411-10c729ce64d8
+[I 11:05:28.083 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 11:07:28.100 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 11:09:28.083 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 11:11:28.071 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 11:13:27.794 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 11:14:39.314 NotebookApp] Saving file at /notebooks/Fetch Southpark Scripts.ipynb
+[I 11:15:28.112 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 11:16:39.851 NotebookApp] Saving file at /notebooks/Fetch Southpark Scripts.ipynb
+[I 11:17:29.050 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 11:19:29.440 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 11:21:30.136 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 11:23:30.295 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 11:25:30.358 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 11:27:29.930 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 11:29:22.413 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 11:29:29.924 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 11:30:11.473 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 11:31:29.732 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 11:33:29.802 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 11:34:27.264 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 11:35:30.271 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 11:37:30.307 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 11:39:30.329 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 11:41:05.999 NotebookApp] Kernel interrupted: fef4cb1f-e91e-4866-8667-360086a7dc9a
+[I 11:41:30.315 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 11:43:30.299 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 11:45:30.257 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 11:47:04.145 NotebookApp] Starting buffering for fef4cb1f-e91e-4866-8667-360086a7dc9a:fa5955cc6f7c403281ddb70b7251f337
+[I 11:47:06.474 NotebookApp] Kernel restarted: fef4cb1f-e91e-4866-8667-360086a7dc9a
+[I 11:47:07.054 NotebookApp] Adapting to protocol v5.1 for kernel fef4cb1f-e91e-4866-8667-360086a7dc9a
+[I 11:47:07.056 NotebookApp] Restoring connection for fef4cb1f-e91e-4866-8667-360086a7dc9a:fa5955cc6f7c403281ddb70b7251f337
+[I 11:47:07.056 NotebookApp] Replaying 7 buffered messages
+[I 11:47:30.094 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 11:48:21.756 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 11:49:30.129 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 11:51:30.147 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 11:51:34.995 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 11:53:30.147 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 11:55:31.087 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 11:57:31.082 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[W 11:58:34.620 NotebookApp] Notebook notebooks/01 Perceptron.ipynb is not trusted
+[I 11:58:35.740 NotebookApp] Adapting to protocol v5.1 for kernel 5b27e1d1-c09b-485c-9411-10c729ce64d8
+[I 11:59:31.107 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[W 11:59:53.306 NotebookApp] Notebook notebooks/02 Gradient Descent.ipynb is not trusted
+[I 11:59:53.799 NotebookApp] Kernel started: e1ce7cdf-4edb-4200-805f-cf79baaecbf5
+[I 11:59:54.159 NotebookApp] Adapting to protocol v5.1 for kernel e1ce7cdf-4edb-4200-805f-cf79baaecbf5
+[I 12:01:31.097 NotebookApp] Saving file at /notebooks/Chatbot.ipynb
+[I 12:01:53.836 NotebookApp] Saving file at /notebooks/02 Gradient Descent.ipynb
+[I 12:03:53.985 NotebookApp] Saving file at /notebooks/02 Gradient Descent.ipynb
+[I 12:05:02.096 NotebookApp] Saving file at /notebooks/01 Perceptron.ipynb
+[W 12:05:02.097 NotebookApp] Notebook notebooks/01 Perceptron.ipynb is not trusted
+[I 12:05:19.031 NotebookApp] Adapting to protocol v5.1 for kernel cace2964-09ff-4570-a8e0-406d3efed548
+[I 12:07:01.993 NotebookApp] Saving file at /notebooks/01 Perceptron.ipynb
+[W 12:07:01.994 NotebookApp] Notebook notebooks/01 Perceptron.ipynb is not trusted
+[W 12:07:20.812 NotebookApp] Notebook notebooks/03 Air Pollution.ipynb is not trusted
+[I 12:07:21.444 NotebookApp] Kernel started: 04c48b6c-e5cf-433f-adc5-b38584fc3b79
+[I 12:07:21.847 NotebookApp] Adapting to protocol v5.1 for kernel 04c48b6c-e5cf-433f-adc5-b38584fc3b79
+[I 12:07:26.870 NotebookApp] Kernel started: 80051b5e-8698-47a1-8b43-a9288c199f17
+[I 12:07:27.281 NotebookApp] Adapting to protocol v5.1 for kernel 80051b5e-8698-47a1-8b43-a9288c199f17
+[I 12:09:01.967 NotebookApp] Saving file at /notebooks/01 Perceptron.ipynb
+[W 12:09:01.968 NotebookApp] Notebook notebooks/01 Perceptron.ipynb is not trusted
+[I 12:09:54.102 NotebookApp] Saving file at /notebooks/02 Gradient Descent.ipynb
+[I 12:11:02.009 NotebookApp] Saving file at /notebooks/01 Perceptron.ipynb
+[W 12:11:02.010 NotebookApp] Notebook notebooks/01 Perceptron.ipynb is not trusted
+[I 12:11:54.099 NotebookApp] Saving file at /notebooks/02 Gradient Descent.ipynb
+[I 12:13:21.570 NotebookApp] Saving file at /notebooks/03 Air Pollution.ipynb
+[W 12:13:21.571 NotebookApp] Notebook notebooks/03 Air Pollution.ipynb is not trusted
+[W 15:24:39.334 NotebookApp] WebSocket ping timeout after 119729 ms.
+[W 15:24:39.349 NotebookApp] WebSocket ping timeout after 119743 ms.
+[I 15:24:44.338 NotebookApp] Starting buffering for f15bbc79-cab7-4c82-aaed-4d9858d81a3d:09bae5da9b48475483a4fd028735616f
+[I 15:24:44.350 NotebookApp] Starting buffering for 8a1487cc-703c-45d1-a94d-bea1a11cff93:5cf4e8653d7a4c4a8b974e4bc3e327ea
+[W 15:24:49.035 NotebookApp] WebSocket ping timeout after 119908 ms.
+[W 15:24:51.852 NotebookApp] WebSocket ping timeout after 119795 ms.
+[I 15:24:54.038 NotebookApp] Starting buffering for cace2964-09ff-4570-a8e0-406d3efed548:a28b94fe56374cc3a5aaad6b38c8ac4a
+[W 15:24:54.163 NotebookApp] WebSocket ping timeout after 119811 ms.
+[I 15:24:56.854 NotebookApp] Starting buffering for 04c48b6c-e5cf-433f-adc5-b38584fc3b79:167995c43f3f44d3814fc4f5badc9e51
+[W 15:24:57.286 NotebookApp] WebSocket ping timeout after 119863 ms.
+[I 15:24:59.168 NotebookApp] Starting buffering for e1ce7cdf-4edb-4200-805f-cf79baaecbf5:02a0a97e191249d2949da5106370d361
+[W 15:25:02.162 NotebookApp] WebSocket ping timeout after 119822 ms.
+[I 15:25:02.288 NotebookApp] Starting buffering for 80051b5e-8698-47a1-8b43-a9288c199f17:3db09980330b4fab8ba32226833fb0dd
+[W 15:25:07.059 NotebookApp] WebSocket ping timeout after 119807 ms.
+[I 15:25:07.165 NotebookApp] Starting buffering for 5b27e1d1-c09b-485c-9411-10c729ce64d8:663abfcdf2504e4185d497232690b52f
+[I 15:25:12.062 NotebookApp] Starting buffering for fef4cb1f-e91e-4866-8667-360086a7dc9a:fa5955cc6f7c403281ddb70b7251f337
+[I 15:02:30.815 NotebookApp] Adapting to protocol v5.1 for kernel e1ce7cdf-4edb-4200-805f-cf79baaecbf5

@@ -4,7 +4,7 @@
 \frametitle{Today's Overview}
 \begin{itemize}
 	\visible<2->{\item 9:00 Intro of Deep Learning}
-	\visible<3->{\item 9:30 Build and train a Perceptron in numpy}
+	\visible<3->{\item 9:30 Build and train a perceptron in numpy}
 	\visible<4->{\item 10:00 Move the code to the GPU using PyTorch}
 	\visible<5->{\item 11:00 Use a neural network for more complex time-series forecasting}
 	\visible<6->{\item 13:00 Introduction to NLP}
@@ -16,10 +16,10 @@
 \begin{frame}
 \frametitle{Why Deep Learning?}
 \begin{itemize}
-	\visible<3->{\item{It can save a lot of time of boooooring feature engineering and writing exceptions}}
-	\visible<4->{\item{It can write computational rules nobody of us would ever think of}}
-	\visible<5->{\item{It can often write better computational rules than we could}}
-	\visible<6->{\item{It can check more cases than we could}}
+	\visible<2->{\item{It can save a lot of time of boooooring feature engineering and writing exceptions}}
+	\visible<3->{\item{It can write computational rules nobody of us would ever think of}}
+	\visible<4->{\item{It can often write better computational rules than we could}}
+	\visible<5->{\item{It can check more cases than we could}}
 \end{itemize}
 \end{frame}
 
@@ -303,10 +303,17 @@
 \begin{frame}
 \frametitle{Softmax}
 \begin{itemize}
+<<<<<<< HEAD
 	\visible<2->{\item To generalize to n-class classification problems we have to extend the function, that calculates the probability}
 	\visible<3->{\item Softmax: $p_i = \frac{e^{o_i}}{\sum_i{e^{o_i}}}$ probabillity for being in class i, given the output $o_i$}
 	\visible<4->{\item With this we can define the general loss}
 	\visible<5->{\item Cross-Entropy $E=-\frac1n\sum\limits_{i=1}^n\sum\limits_{k=1}^m{y_{i,k}\ln{p_{i,k}}}$}
+=======
+	\visible<2->{\item To generalize to n-classification problems we have to extend the function that calculates the probability}
+	\visible<3->{\item Softmax: $p = \frac{e^{o_i}}{\sum_i{e^{o_i}}}$}
+	\visible<4->{\item With this we can as well define the general loss}
+	\visible<5->{\item Cross-Entropy $E=-\frac1n\sum_{i=1}^n\sum_{k=1}^m{y_{i,k}\ln{p_{i,k}}}$}
+>>>>>>> origin/suggestions
 \end{itemize}
 \end{frame}
 
@@ -319,7 +326,7 @@
 	\visible<2->{\item Similar to the perceptron we have a lot of inputs and output}
 	\visible<3->{\item However, instead of going from start to end directly we now add hidden units}
 	\visible<4->{\item For each of the units we now apply the sigmoid function}
-	\visible<5->{\item Since every unit is differentiable, the whole network is differentiable $\rightarrow$ We can use backpropagation to minimise the error as we can calculate the gradients}
+	\visible<5->{\item Since every unit is differentiable, the whole network is differentiable $\rightarrow$ We can use backpropagation to minimize the error as we can calculate the gradients}
 \end{itemize}
 \end{minipage}
 \hfill
@@ -342,7 +349,7 @@
 
 
 \begin{frame}
-\frametitle{Optimising Weights}
+\frametitle{Optimizing Weights}
 \begin{itemize}
 	\visible<2->{\item Gradient Descent}
 	\visible<3->{\item Advanced Methods

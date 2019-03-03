@@ -2542,3 +2542,280 @@ tornado.websocket.WebSocketClosedError
 [I 15:25:07.165 NotebookApp] Starting buffering for 5b27e1d1-c09b-485c-9411-10c729ce64d8:663abfcdf2504e4185d497232690b52f
 [I 15:25:12.062 NotebookApp] Starting buffering for fef4cb1f-e91e-4866-8667-360086a7dc9a:fa5955cc6f7c403281ddb70b7251f337
 [I 15:02:30.815 NotebookApp] Adapting to protocol v5.1 for kernel e1ce7cdf-4edb-4200-805f-cf79baaecbf5
+[I 21:15:39.540 NotebookApp] Writing notebook server cookie secret to /run/user/1000/jupyter/notebook_cookie_secret
+[I 21:15:40.075 NotebookApp] Serving notebooks from local directory: /home/jendrik/git/dlworkshop
+[I 21:15:40.075 NotebookApp] The Jupyter Notebook is running at:
+[I 21:15:40.075 NotebookApp] http://localhost:8888/?token=7d2714947c7d7dbc29c612b225819001cc19c267db1acb9d
+[I 21:15:40.075 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 21:15:40.164 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///run/user/1000/jupyter/nbserver-3897-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=7d2714947c7d7dbc29c612b225819001cc19c267db1acb9d
+[I 11:38:22.696 NotebookApp] 302 GET / (127.0.0.1) 0.84ms
+[I 11:38:22.772 NotebookApp] 302 GET /tree? (127.0.0.1) 1.10ms
+[W 11:51:07.708 NotebookApp] Clearing invalid/expired login cookie username-localhost-8888
+[W 11:51:07.727 NotebookApp] Clearing invalid/expired login cookie username-localhost-8888
+[W 11:51:07.730 NotebookApp] Clearing invalid/expired login cookie username-localhost-8888
+[W 11:51:07.733 NotebookApp] Clearing invalid/expired login cookie username-localhost-8888
+[W 11:51:07.737 NotebookApp] Clearing invalid/expired login cookie username-localhost-8888
+[W 11:51:07.830 NotebookApp] Clearing invalid/expired login cookie username-localhost-8888
+[W 11:51:07.837 NotebookApp] Clearing invalid/expired login cookie username-localhost-8888
+[W 11:51:07.933 NotebookApp] Clearing invalid/expired login cookie username-localhost-8888
+[W 11:51:07.934 NotebookApp] Forbidden
+[W 11:51:07.935 NotebookApp] 403 GET /api/config/notebook?_=1551610267809 (127.0.0.1) 1.75ms referer=http://localhost:8888/notebooks/notebooks/02%20Gradient%20Descent.ipynb
+[W 11:51:07.937 NotebookApp] Clearing invalid/expired login cookie username-localhost-8888
+[W 11:51:07.937 NotebookApp] Forbidden
+[W 11:51:07.938 NotebookApp] 403 GET /api/config/common?_=1551610267810 (127.0.0.1) 1.66ms referer=http://localhost:8888/notebooks/notebooks/02%20Gradient%20Descent.ipynb
+[W 11:51:07.984 NotebookApp] Forbidden
+[W 11:51:07.984 NotebookApp] 403 GET /api/kernelspecs (127.0.0.1) 1.23ms referer=http://localhost:8888/notebooks/notebooks/02%20Gradient%20Descent.ipynb
+[W 11:51:08.008 NotebookApp] Forbidden
+[W 11:51:08.008 NotebookApp] 403 GET /api/contents/notebooks/02%20Gradient%20Descent.ipynb?type=notebook&_=1551610267811 (127.0.0.1) 1.30ms referer=http://localhost:8888/notebooks/notebooks/02%20Gradient%20Descent.ipynb
+[W 11:51:12.002 NotebookApp] Forbidden
+[W 11:51:12.003 NotebookApp] 403 GET /api/config/tree?_=1551610271934 (127.0.0.1) 1.36ms referer=http://localhost:8888/tree/notebooks
+[W 11:51:12.004 NotebookApp] Forbidden
+[W 11:51:12.005 NotebookApp] 403 GET /api/config/common?_=1551610271935 (127.0.0.1) 1.18ms referer=http://localhost:8888/tree/notebooks
+[W 11:51:12.006 NotebookApp] Forbidden
+[W 11:51:12.007 NotebookApp] 403 GET /api/terminals?_=1551610271936 (127.0.0.1) 1.13ms referer=http://localhost:8888/tree/notebooks
+[W 11:51:12.008 NotebookApp] Forbidden
+[W 11:51:12.009 NotebookApp] 403 GET /api/sessions?_=1551610271937 (127.0.0.1) 1.19ms referer=http://localhost:8888/tree/notebooks
+[W 11:51:12.011 NotebookApp] Forbidden
+[W 11:51:12.011 NotebookApp] 403 GET /api/terminals?_=1551610271938 (127.0.0.1) 1.10ms referer=http://localhost:8888/tree/notebooks
+[I 11:51:13.963 NotebookApp] 302 GET /tree/notebooks (127.0.0.1) 0.89ms
+[I 11:51:46.738 NotebookApp] 302 POST /login?next=%2Ftree%2Fnotebooks (127.0.0.1) 1.91ms
+[W 11:51:49.559 NotebookApp] Notebook notebooks/03 Air Pollution.ipynb is not trusted
+[I 11:51:50.223 NotebookApp] Kernel started: cfcb3925-ac0e-48e7-a765-d1257a327bc1
+[W 11:51:51.160 NotebookApp] Notebook notebooks/03 Air Pollution.ipynb is not trusted
+[I 11:51:52.021 NotebookApp] Adapting to protocol v5.1 for kernel cfcb3925-ac0e-48e7-a765-d1257a327bc1
+[I 11:51:52.443 NotebookApp] Kernel started: 10792a2e-1f44-4305-a135-b962aa45a36c
+[I 11:51:52.854 NotebookApp] Adapting to protocol v5.1 for kernel 10792a2e-1f44-4305-a135-b962aa45a36c
+[I 11:51:53.612 NotebookApp] Kernel started: 955f6557-168f-4363-999d-1603b9188e09
+[I 11:51:54.078 NotebookApp] Adapting to protocol v5.1 for kernel 955f6557-168f-4363-999d-1603b9188e09
+[I 11:52:06.372 NotebookApp] Kernel started: 09c1d8b0-884f-48c1-bc71-c73f6949aba5
+[I 11:52:06.748 NotebookApp] Adapting to protocol v5.1 for kernel 09c1d8b0-884f-48c1-bc71-c73f6949aba5
+[I 11:52:57.394 NotebookApp] Saving file at /notebooks/02 Gradient Descent.ipynb
+[I 11:53:53.738 NotebookApp] Saving file at /notebooks/02 Gradient Descent.ipynb
+[I 12:11:22.706 NotebookApp] Kernel started: 56a25e9d-c100-46b3-bbc5-a0a837819378
+[I 12:11:23.096 NotebookApp] Adapting to protocol v5.1 for kernel 56a25e9d-c100-46b3-bbc5-a0a837819378
+[I 12:13:22.744 NotebookApp] Saving file at /notebooks/03 Neural Network.ipynb
+[I 12:20:14.924 NotebookApp] Saving file at /notebooks/03 Neural Network.ipynb
+[I 12:21:22.733 NotebookApp] Saving file at /notebooks/03 Neural Network.ipynb
+[I 12:23:22.730 NotebookApp] Saving file at /notebooks/03 Neural Network.ipynb
+[I 12:27:22.733 NotebookApp] Saving file at /notebooks/03 Neural Network.ipynb
+[I 12:29:22.731 NotebookApp] Saving file at /notebooks/03 Neural Network.ipynb
+[I 12:30:44.569 NotebookApp] Saving file at /notebooks/03 Neural Network.ipynb
+[I 12:31:06.339 NotebookApp] Saving file at /notebooks/03 Neural Network.ipynb
+[I 12:31:22.733 NotebookApp] Saving file at /notebooks/03 Neural Network.ipynb
+[I 12:33:22.732 NotebookApp] Saving file at /notebooks/03 Neural Network.ipynb
+[I 12:35:40.575 NotebookApp] Saving file at /notebooks/03 Neural Network.ipynb
+[I 12:35:44.549 NotebookApp] Saving file at /notebooks/03 Neural Network.ipynb
+[I 12:37:22.737 NotebookApp] Saving file at /notebooks/03 Neural Network.ipynb
+[I 12:37:26.098 NotebookApp] Saving file at /notebooks/03 Neural Network.ipynb
+[I 12:39:22.722 NotebookApp] Saving file at /notebooks/03 Neural Network.ipynb
+[I 12:40:14.370 NotebookApp] Saving file at /notebooks/03 Neural Network.ipynb
+[I 12:41:22.732 NotebookApp] Saving file at /notebooks/03 Neural Network.ipynb
+[I 12:43:22.731 NotebookApp] Saving file at /notebooks/03 Neural Network.ipynb
+[I 12:43:39.260 NotebookApp] Saving file at /notebooks/03 Neural Network.ipynb
+[I 12:43:49.814 NotebookApp] Saving file at /notebooks/03 Neural Network.ipynb
+[I 12:45:22.739 NotebookApp] Saving file at /notebooks/03 Neural Network.ipynb
+[I 12:46:00.569 NotebookApp] Saving file at /notebooks/03 Neural Network.ipynb
+[I 12:46:13.099 NotebookApp] Saving file at /notebooks/03 Neural Network.ipynb
+[I 12:47:22.743 NotebookApp] Saving file at /notebooks/03 Neural Network.ipynb
+[I 12:47:26.579 NotebookApp] Saving file at /notebooks/03 Neural Network.ipynb
+[I 12:48:25.148 NotebookApp] Saving file at /notebooks/03 Neural Network.ipynb
+[W 13:07:14.849 NotebookApp] Notebook notebooks/01 Perceptron.ipynb is not trusted
+[I 13:07:15.473 NotebookApp] Kernel started: a715fae1-1315-411a-8130-71f8a76c5ac8
+[I 13:07:15.845 NotebookApp] Adapting to protocol v5.1 for kernel a715fae1-1315-411a-8130-71f8a76c5ac8
+[I 13:07:22.735 NotebookApp] Saving file at /notebooks/03 Neural Network.ipynb
+[I 13:07:53.771 NotebookApp] Saving file at /notebooks/02 Gradient Descent.ipynb
+[I 13:09:53.766 NotebookApp] Saving file at /notebooks/02 Gradient Descent.ipynb
+[I 13:11:53.768 NotebookApp] Saving file at /notebooks/02 Gradient Descent.ipynb
+[I 14:01:25.810 NotebookApp] Kernel started: 9bd08f58-11d8-4bf9-a63c-9f0d826d7148
+[I 14:01:26.180 NotebookApp] Adapting to protocol v5.1 for kernel 9bd08f58-11d8-4bf9-a63c-9f0d826d7148
+[I 14:01:38.997 NotebookApp] Adapting to protocol v5.1 for kernel 9bd08f58-11d8-4bf9-a63c-9f0d826d7148
+[I 14:01:55.291 NotebookApp] Adapting to protocol v5.1 for kernel 9bd08f58-11d8-4bf9-a63c-9f0d826d7148
+[I 14:01:56.713 NotebookApp] Copying notebooks/Word2VecTrain.ipynb to /notebooks
+[I 14:01:59.579 NotebookApp] Kernel started: dca151c9-5db6-4ab0-83f3-c2aa2e56afbd
+[I 14:01:59.967 NotebookApp] Adapting to protocol v5.1 for kernel dca151c9-5db6-4ab0-83f3-c2aa2e56afbd
+[I 14:03:59.628 NotebookApp] Saving file at /notebooks/Word2Vec.ipynb
+[I 14:25:06.412 NotebookApp] Kernel started: d57b6214-4b60-4c5d-b87b-4ad19c96319c
+[I 14:25:06.830 NotebookApp] Adapting to protocol v5.1 for kernel d57b6214-4b60-4c5d-b87b-4ad19c96319c
+[I 14:29:59.582 NotebookApp] Saving file at /notebooks/05 Word2Vec.ipynb
+[I 14:31:06.418 NotebookApp] Saving file at /notebooks/06 Chatbot.ipynb
+[W 14:55:31.082 NotebookApp] 404 GET /api/contents/notebooks/Word2Vec.ipynb?type=notebook&_=1551621330921 (127.0.0.1): No such file or directory: notebooks/Word2Vec.ipynb
+[W 14:55:31.082 NotebookApp] No such file or directory: notebooks/Word2Vec.ipynb
+[W 14:55:31.083 NotebookApp] 404 GET /api/contents/notebooks/Word2Vec.ipynb?type=notebook&_=1551621330921 (127.0.0.1) 1.93ms referer=http://localhost:8888/notebooks/notebooks/Word2Vec.ipynb
+[I 14:55:50.726 NotebookApp] Copying notebooks/06 Chatbot.ipynb to /notebooks
+[I 14:55:53.037 NotebookApp] Kernel started: 6368b744-4dc4-4807-93d1-79e7e06f8eef
+[I 14:55:53.482 NotebookApp] Adapting to protocol v5.1 for kernel 6368b744-4dc4-4807-93d1-79e7e06f8eef
+[I 14:57:53.050 NotebookApp] Saving file at /notebooks/06 Chatbot With Word2Vec.ipynb
+[I 14:58:43.727 NotebookApp] Saving file at /notebooks/06 Chatbot With Word2Vec.ipynb
+[I 14:59:36.364 NotebookApp] Saving file at /notebooks/06 Chatbot With Word2Vec.ipynb
+[I 14:59:53.052 NotebookApp] Saving file at /notebooks/06 Chatbot With Word2Vec.ipynb
+[I 15:00:21.643 NotebookApp] Saving file at /notebooks/06 Chatbot With Word2Vec.ipynb
+[I 15:00:58.225 NotebookApp] Saving file at /notebooks/06 Chatbot With Word2Vec.ipynb
+[I 15:01:15.899 NotebookApp] Saving file at /notebooks/01 Perceptron.ipynb
+[W 15:01:15.900 NotebookApp] Notebook notebooks/01 Perceptron.ipynb is not trusted
+[I 15:01:23.659 NotebookApp] Saving file at /notebooks/01 Perceptron.ipynb
+[W 15:01:23.660 NotebookApp] Notebook notebooks/01 Perceptron.ipynb is not trusted
+[I 15:03:15.513 NotebookApp] Saving file at /notebooks/01 Perceptron.ipynb
+[W 15:03:15.514 NotebookApp] Notebook notebooks/01 Perceptron.ipynb is not trusted
+[I 15:04:04.635 NotebookApp] Saving file at /notebooks/01 Perceptron.ipynb
+[W 15:04:04.636 NotebookApp] Notebook notebooks/01 Perceptron.ipynb is not trusted
+[I 15:05:05.890 NotebookApp] Saving file at /notebooks/01 Perceptron.ipynb
+[W 15:05:05.891 NotebookApp] Notebook notebooks/01 Perceptron.ipynb is not trusted
+[I 15:05:15.529 NotebookApp] Saving file at /notebooks/01 Perceptron.ipynb
+[W 15:05:15.530 NotebookApp] Notebook notebooks/01 Perceptron.ipynb is not trusted
+[I 15:09:59.608 NotebookApp] Saving file at /notebooks/05 Word2Vec.ipynb
+[I 15:11:59.595 NotebookApp] Saving file at /notebooks/05 Word2Vec.ipynb
+[I 16:17:15.569 NotebookApp] Saving file at /notebooks/01 Perceptron.ipynb
+[W 16:17:15.570 NotebookApp] Notebook notebooks/01 Perceptron.ipynb is not trusted
+[I 16:25:15.595 NotebookApp] Saving file at /notebooks/01 Perceptron.ipynb
+[W 16:25:15.596 NotebookApp] Notebook notebooks/01 Perceptron.ipynb is not trusted
+[I 16:26:35.150 NotebookApp] Saving file at /notebooks/01 Perceptron.ipynb
+[W 16:26:35.150 NotebookApp] Notebook notebooks/01 Perceptron.ipynb is not trusted
+[I 16:27:13.211 NotebookApp] Saving file at /notebooks/01 Perceptron.ipynb
+[W 16:27:13.212 NotebookApp] Notebook notebooks/01 Perceptron.ipynb is not trusted
+[I 16:28:43.905 NotebookApp] Saving file at /notebooks/02 Gradient Descent.ipynb
+[I 16:29:15.555 NotebookApp] Saving file at /notebooks/01 Perceptron.ipynb
+[W 16:29:15.556 NotebookApp] Notebook notebooks/01 Perceptron.ipynb is not trusted
+[I 16:29:37.035 NotebookApp] Saving file at /notebooks/01 Perceptron.ipynb
+[W 16:29:37.036 NotebookApp] Notebook notebooks/01 Perceptron.ipynb is not trusted
+[I 16:31:51.891 NotebookApp] Saving file at /notebooks/01 Perceptron.ipynb
+[W 16:31:51.892 NotebookApp] Notebook notebooks/01 Perceptron.ipynb is not trusted
+[W 16:34:25.023 NotebookApp] 404 GET /notebooks/notebooks/images/perceptron.png (127.0.0.1): No such file or directory: notebooks/images/perceptron.png
+[W 16:34:25.051 NotebookApp] 404 GET /notebooks/notebooks/images/perceptron.png (127.0.0.1) 29.25ms referer=http://localhost:8888/notebooks/notebooks/01%20Perceptron.ipynb
+[W 16:34:36.786 NotebookApp] 404 GET /notebooks/notebooks/images/perceptron.png (127.0.0.1): No such file or directory: notebooks/images/perceptron.png
+[W 16:34:36.787 NotebookApp] 404 GET /notebooks/notebooks/images/perceptron.png (127.0.0.1) 2.50ms referer=http://localhost:8888/notebooks/notebooks/01%20Perceptron.ipynb
+[W 16:34:51.277 NotebookApp] 404 GET /notebooks/notebooks/images/perceptron.png (127.0.0.1): No such file or directory: notebooks/images/perceptron.png
+[W 16:34:51.278 NotebookApp] 404 GET /notebooks/notebooks/images/perceptron.png (127.0.0.1) 2.40ms referer=http://localhost:8888/notebooks/notebooks/01%20Perceptron.ipynb
+[W 16:35:02.592 NotebookApp] 404 GET /notebooks/notebooks/images/perceptron.png (127.0.0.1): No such file or directory: notebooks/images/perceptron.png
+[W 16:35:02.594 NotebookApp] 404 GET /notebooks/notebooks/images/perceptron.png (127.0.0.1) 2.53ms referer=http://localhost:8888/notebooks/notebooks/01%20Perceptron.ipynb
+[W 16:35:08.248 NotebookApp] 404 GET /notebooks/notebooks/notebooks/images/perceptron.png (127.0.0.1): No such file or directory: notebooks/notebooks/images/perceptron.png
+[W 16:35:08.249 NotebookApp] 404 GET /notebooks/notebooks/notebooks/images/perceptron.png (127.0.0.1) 2.70ms referer=http://localhost:8888/notebooks/notebooks/01%20Perceptron.ipynb
+[I 16:35:15.554 NotebookApp] Saving file at /notebooks/01 Perceptron.ipynb
+[W 16:35:15.555 NotebookApp] Notebook notebooks/01 Perceptron.ipynb is not trusted
+[W 16:36:15.260 NotebookApp] 404 GET /notebooks/notebooks/images/perceptron.png (127.0.0.1): No such file or directory: notebooks/images/perceptron.png
+[W 16:36:15.262 NotebookApp] 404 GET /notebooks/notebooks/images/perceptron.png (127.0.0.1) 2.85ms referer=http://localhost:8888/notebooks/notebooks/01%20Perceptron.ipynb
+[I 16:37:15.552 NotebookApp] Saving file at /notebooks/01 Perceptron.ipynb
+[W 16:37:15.553 NotebookApp] Notebook notebooks/01 Perceptron.ipynb is not trusted
+[W 16:37:52.092 NotebookApp] 404 GET /home/jendrik/git/DLWorkshop/notebooks/images/perceptron.png (127.0.0.1) 2.46ms referer=http://localhost:8888/notebooks/notebooks/01%20Perceptron.ipynb
+[W 16:37:59.485 NotebookApp] 404 GET /notebooks/notebooks/images/perceptron.png (127.0.0.1): No such file or directory: notebooks/images/perceptron.png
+[W 16:37:59.486 NotebookApp] 404 GET /notebooks/notebooks/images/perceptron.png (127.0.0.1) 2.64ms referer=http://localhost:8888/notebooks/notebooks/01%20Perceptron.ipynb
+[W 16:38:05.035 NotebookApp] 404 GET /notebooks/notebooks/images/perceptron.png (127.0.0.1): No such file or directory: notebooks/images/perceptron.png
+[W 16:38:05.037 NotebookApp] 404 GET /notebooks/notebooks/images/perceptron.png (127.0.0.1) 2.54ms referer=http://localhost:8888/notebooks/notebooks/01%20Perceptron.ipynb
+[W 16:38:38.451 NotebookApp] 404 GET /notebooks/images/perceptron.png (127.0.0.1): No such file or directory: images/perceptron.png
+[W 16:38:38.452 NotebookApp] 404 GET /notebooks/images/perceptron.png (127.0.0.1) 2.78ms referer=http://localhost:8888/notebooks/notebooks/01%20Perceptron.ipynb
+[I 16:39:15.556 NotebookApp] Saving file at /notebooks/01 Perceptron.ipynb
+[W 16:39:15.557 NotebookApp] Notebook notebooks/01 Perceptron.ipynb is not trusted
+[W 16:40:10.122 NotebookApp] 404 GET /notebooks/images/perceptron.png (127.0.0.1): No such file or directory: images/perceptron.png
+[W 16:40:10.123 NotebookApp] 404 GET /notebooks/images/perceptron.png (127.0.0.1) 2.82ms referer=http://localhost:8888/notebooks/notebooks/01%20Perceptron.ipynb
+[I 16:40:13.014 NotebookApp] 302 GET /notebooks/notebooks/images/perceptron.png (127.0.0.1) 1.61ms
+[I 16:41:15.556 NotebookApp] Saving file at /notebooks/01 Perceptron.ipynb
+[W 16:41:15.557 NotebookApp] Notebook notebooks/01 Perceptron.ipynb is not trusted
+[I 16:42:15.225 NotebookApp] Saving file at /notebooks/01 Perceptron.ipynb
+[W 16:42:15.225 NotebookApp] Notebook notebooks/01 Perceptron.ipynb is not trusted
+[I 16:43:15.544 NotebookApp] Saving file at /notebooks/01 Perceptron.ipynb
+[W 16:43:15.545 NotebookApp] Notebook notebooks/01 Perceptron.ipynb is not trusted
+[I 16:45:15.565 NotebookApp] Saving file at /notebooks/01 Perceptron.ipynb
+[W 16:45:15.566 NotebookApp] Notebook notebooks/01 Perceptron.ipynb is not trusted
+[I 16:47:15.554 NotebookApp] Saving file at /notebooks/01 Perceptron.ipynb
+[W 16:47:15.555 NotebookApp] Notebook notebooks/01 Perceptron.ipynb is not trusted
+[I 16:55:15.576 NotebookApp] Saving file at /notebooks/01 Perceptron.ipynb
+[W 16:55:15.577 NotebookApp] Notebook notebooks/01 Perceptron.ipynb is not trusted
+[I 16:59:01.160 NotebookApp] Saving file at /notebooks/01 Perceptron.ipynb
+[W 16:59:01.161 NotebookApp] Notebook notebooks/01 Perceptron.ipynb is not trusted
+[I 17:01:04.525 NotebookApp] Saving file at /notebooks/01 Perceptron.ipynb
+[W 17:01:04.526 NotebookApp] Notebook notebooks/01 Perceptron.ipynb is not trusted
+[I 17:01:06.408 NotebookApp] Starting buffering for a715fae1-1315-411a-8130-71f8a76c5ac8:a1d09def31a04b40903f110b386099ca
+[I 17:01:51.142 NotebookApp] Adapting to protocol v5.1 for kernel 955f6557-168f-4363-999d-1603b9188e09
+[I 17:03:51.090 NotebookApp] Saving file at /notebooks/02 Gradient Descent.ipynb
+[I 17:05:51.090 NotebookApp] Saving file at /notebooks/02 Gradient Descent.ipynb
+[I 17:07:51.095 NotebookApp] Saving file at /notebooks/02 Gradient Descent.ipynb
+[I 17:09:51.085 NotebookApp] Saving file at /notebooks/02 Gradient Descent.ipynb
+[W 17:09:57.961 NotebookApp] Notebook notebooks/01 Perceptron.ipynb is not trusted
+[I 17:09:58.047 NotebookApp] 302 GET /notebooks/notebooks/images/perceptron.png (127.0.0.1) 1.00ms
+[I 17:09:58.507 NotebookApp] Adapting to protocol v5.1 for kernel a715fae1-1315-411a-8130-71f8a76c5ac8
+[I 17:11:51.085 NotebookApp] Saving file at /notebooks/02 Gradient Descent.ipynb
+[I 17:13:07.035 NotebookApp] Saving file at /notebooks/02 Gradient Descent.ipynb
+[I 17:13:12.004 NotebookApp] Saving file at /notebooks/02 Gradient Descent.ipynb
+[I 17:13:13.412 NotebookApp] Starting buffering for a715fae1-1315-411a-8130-71f8a76c5ac8:73ca4e9733724c20889d947732b5a3ea
+[I 17:13:22.819 NotebookApp] Saving file at /notebooks/03 Neural Network.ipynb
+[I 17:14:54.822 NotebookApp] Saving file at /notebooks/03 Neural Network.ipynb
+[I 17:22:00.872 NotebookApp] Saving file at /notebooks/03 Neural Network.ipynb
+[I 17:22:02.714 NotebookApp] Starting buffering for 56a25e9d-c100-46b3-bbc5-a0a837819378:c1fe176591d647238598df7d34f764bd
+[I 17:22:11.998 NotebookApp] Starting buffering for 9bd08f58-11d8-4bf9-a63c-9f0d826d7148:1af40fc1912545f986baabbd3630135f
+[I 17:25:58.387 NotebookApp] Saving file at /notebooks/05 Word2Vec.ipynb
+[I 17:25:59.662 NotebookApp] Saving file at /notebooks/05 Word2Vec.ipynb
+[I 17:27:59.679 NotebookApp] Saving file at /notebooks/05 Word2Vec.ipynb
+[I 17:29:59.656 NotebookApp] Saving file at /notebooks/05 Word2Vec.ipynb
+[I 17:31:59.674 NotebookApp] Saving file at /notebooks/05 Word2Vec.ipynb
+[I 17:35:59.667 NotebookApp] Saving file at /notebooks/05 Word2Vec.ipynb
+[I 17:37:59.669 NotebookApp] Saving file at /notebooks/05 Word2Vec.ipynb
+[I 17:39:01.030 NotebookApp] Saving file at /notebooks/05 Word2Vec.ipynb
+[I 17:39:59.654 NotebookApp] Saving file at /notebooks/05 Word2Vec.ipynb
+[I 17:41:59.859 NotebookApp] Saving file at /notebooks/05 Word2Vec.ipynb
+[I 17:42:31.913 NotebookApp] Saving file at /notebooks/05 Word2Vec.ipynb
+[I 17:43:59.848 NotebookApp] Saving file at /notebooks/05 Word2Vec.ipynb
+[I 19:02:47.141 NotebookApp] Kernel interrupted: dca151c9-5db6-4ab0-83f3-c2aa2e56afbd
+[W 19:03:44.887 NotebookApp] Notebook notebooks/01 Perceptron.ipynb is not trusted
+[I 19:03:45.602 NotebookApp] Adapting to protocol v5.1 for kernel a715fae1-1315-411a-8130-71f8a76c5ac8
+[I 19:03:59.672 NotebookApp] Saving file at /notebooks/05 Word2Vec.ipynb
+[I 19:05:59.681 NotebookApp] Saving file at /notebooks/05 Word2Vec.ipynb
+[I 19:09:34.140 NotebookApp] Saving file at /notebooks/06 Chatbot.ipynb
+[I 19:09:53.130 NotebookApp] Saving file at /notebooks/06 Chatbot With Word2Vec.ipynb
+[I 19:11:53.126 NotebookApp] Saving file at /notebooks/06 Chatbot With Word2Vec.ipynb
+[I 19:13:12.615 NotebookApp] Saving file at /notebooks/06 Chatbot With Word2Vec.ipynb
+[I 19:13:23.540 NotebookApp] Saving file at /notebooks/06 Chatbot With Word2Vec.ipynb
+[I 19:13:43.250 NotebookApp] Saving file at /notebooks/06 Chatbot With Word2Vec.ipynb
+[I 19:13:53.125 NotebookApp] Saving file at /notebooks/06 Chatbot With Word2Vec.ipynb
+[I 19:15:53.138 NotebookApp] Saving file at /notebooks/06 Chatbot With Word2Vec.ipynb
+[I 19:17:53.123 NotebookApp] Saving file at /notebooks/06 Chatbot With Word2Vec.ipynb
+[I 19:18:23.173 NotebookApp] Saving file at /notebooks/06 Chatbot With Word2Vec.ipynb
+[I 19:19:47.820 NotebookApp] Saving file at /notebooks/06 Chatbot With Word2Vec.ipynb
+[I 19:20:36.373 NotebookApp] Saving file at /notebooks/06 Chatbot With Word2Vec.ipynb
+[I 19:21:03.013 NotebookApp] Saving file at /notebooks/06 Chatbot With Word2Vec.ipynb
+[I 19:21:25.744 NotebookApp] Saving file at /notebooks/06 Chatbot With Word2Vec.ipynb
+[I 19:21:38.468 NotebookApp] Saving file at /notebooks/06 Chatbot With Word2Vec.ipynb
+[I 19:21:53.120 NotebookApp] Saving file at /notebooks/06 Chatbot With Word2Vec.ipynb
+[I 19:22:44.715 NotebookApp] Saving file at /notebooks/06 Chatbot With Word2Vec.ipynb
+[I 19:23:14.697 NotebookApp] Saving file at /notebooks/06 Chatbot With Word2Vec.ipynb
+[I 19:24:57.250 NotebookApp] Saving file at /notebooks/06 Chatbot With Word2Vec.ipynb
+[I 19:25:53.119 NotebookApp] Saving file at /notebooks/06 Chatbot With Word2Vec.ipynb
+[I 19:27:53.124 NotebookApp] Saving file at /notebooks/06 Chatbot With Word2Vec.ipynb
+[I 19:28:43.324 NotebookApp] Saving file at /notebooks/06 Chatbot With Word2Vec.ipynb
+[I 19:29:53.127 NotebookApp] Saving file at /notebooks/06 Chatbot With Word2Vec.ipynb
+[I 19:31:53.124 NotebookApp] Saving file at /notebooks/06 Chatbot With Word2Vec.ipynb
+[I 19:33:32.896 NotebookApp] Saving file at /notebooks/06 Chatbot With Word2Vec.ipynb
+[I 19:34:03.018 NotebookApp] Saving file at /notebooks/06 Chatbot With Word2Vec.ipynb
+[I 19:35:54.047 NotebookApp] Saving file at /notebooks/06 Chatbot With Word2Vec.ipynb
+[I 19:35:56.034 NotebookApp] Saving file at /notebooks/06 Chatbot With Word2Vec.ipynb
+[I 19:37:15.254 NotebookApp] Saving file at /notebooks/06 Chatbot With Word2Vec.ipynb
+[I 19:37:54.079 NotebookApp] Saving file at /notebooks/06 Chatbot With Word2Vec.ipynb
+[I 19:38:20.631 NotebookApp] Saving file at /notebooks/06 Chatbot With Word2Vec.ipynb
+[I 19:39:54.096 NotebookApp] Saving file at /notebooks/06 Chatbot With Word2Vec.ipynb
+[I 19:41:54.106 NotebookApp] Saving file at /notebooks/06 Chatbot With Word2Vec.ipynb
+[I 19:43:54.142 NotebookApp] Saving file at /notebooks/06 Chatbot With Word2Vec.ipynb
+[I 19:45:54.214 NotebookApp] Saving file at /notebooks/06 Chatbot With Word2Vec.ipynb
+[I 19:47:54.191 NotebookApp] Saving file at /notebooks/06 Chatbot With Word2Vec.ipynb
+[I 19:49:54.196 NotebookApp] Saving file at /notebooks/06 Chatbot With Word2Vec.ipynb
+[I 19:51:54.329 NotebookApp] Saving file at /notebooks/06 Chatbot With Word2Vec.ipynb
+[I 19:53:54.286 NotebookApp] Saving file at /notebooks/06 Chatbot With Word2Vec.ipynb
+[I 19:55:54.265 NotebookApp] Saving file at /notebooks/06 Chatbot With Word2Vec.ipynb
+[I 20:03:54.298 NotebookApp] Saving file at /notebooks/06 Chatbot With Word2Vec.ipynb
+[I 20:05:54.279 NotebookApp] Saving file at /notebooks/06 Chatbot With Word2Vec.ipynb
+[I 20:07:54.263 NotebookApp] Saving file at /notebooks/06 Chatbot With Word2Vec.ipynb
+[I 20:09:54.363 NotebookApp] Saving file at /notebooks/06 Chatbot With Word2Vec.ipynb
+[I 20:11:54.297 NotebookApp] Saving file at /notebooks/06 Chatbot With Word2Vec.ipynb
+[I 20:13:54.411 NotebookApp] Saving file at /notebooks/06 Chatbot With Word2Vec.ipynb
+[I 20:15:54.286 NotebookApp] Saving file at /notebooks/06 Chatbot With Word2Vec.ipynb
+[I 20:17:54.420 NotebookApp] Saving file at /notebooks/06 Chatbot With Word2Vec.ipynb
+[I 20:18:20.036 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+WARNING:root:kernel 6368b744-4dc4-4807-93d1-79e7e06f8eef restarted
+[I 20:19:54.300 NotebookApp] Saving file at /notebooks/06 Chatbot With Word2Vec.ipynb
+[I 20:41:54.114 NotebookApp] Saving file at /notebooks/06 Chatbot With Word2Vec.ipynb
+[I 20:43:54.119 NotebookApp] Saving file at /notebooks/06 Chatbot With Word2Vec.ipynb
+[I 20:45:54.119 NotebookApp] Saving file at /notebooks/06 Chatbot With Word2Vec.ipynb
+[I 20:47:54.140 NotebookApp] Saving file at /notebooks/06 Chatbot With Word2Vec.ipynb
+[I 20:49:54.133 NotebookApp] Saving file at /notebooks/06 Chatbot With Word2Vec.ipynb

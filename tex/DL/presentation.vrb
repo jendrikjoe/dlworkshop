@@ -2,7 +2,6 @@
 \begin{minipage}{.45\textwidth}
 	\begin{tikzpicture}
 	\begin{axis}[xlabel={$x$}, ylabel={$y$}, domain=0:1, width=\textwidth]
-	\only<2->{
 		\addplot+[scatter, only marks, scatter src=\thisrow{class},
 		domain=0:1]
 		table[x=x,y=y,col sep=comma,row sep=crcr] {
@@ -22,16 +21,16 @@
 			.8,.1,1\\
 			.6,.1,1\\
 			.2,.6,1\\
-	};}
-	\only<3->{\addplot+[no marks, domain=0:.6] {-x+.6};}
+	};
+	\only<2->{\addplot+[no marks, domain=0:.6] {-x+.6};}
 	\end{axis}
 	\end{tikzpicture}
-	\only<3->{Data are linearly separable -> Can be divided by a plane}
+	\only<2->{Data are linearly separable -> Can be divided by a plane}
 
 \end{minipage}
 \hfill
 \begin{minipage}{.45\textwidth}
-	\only<4->{
+	\only<3->{
 	\begin{tikzpicture}
 	\begin{axis}[xlabel={$x$}, ylabel={$y$},domain=0:1, width=\textwidth]
 		\addplot+[scatter, only marks, scatter src=\thisrow{class},
@@ -54,15 +53,15 @@
 			.6,.1,1\\
 			.2,.6,1\\
 		};
-		\only<5->{\addplot+[no marks, domain=0:.6, color=red] {-x+.6};}
-		\only<6->{\addplot+[no marks, domain=0:.6, color=red] {-.8*x+.4};}
-		\only<7->{\addplot+[no marks, domain=.64:.77, color=red] {-5*x+3.8};}
+		\only<4->{\addplot+[no marks, domain=0:.6, color=red] {-x+.6};}
+		\only<5->{\addplot+[no marks, domain=0:.6, color=red] {-.8*x+.4};}
+		\only<6->{\addplot+[no marks, domain=.64:.77, color=red] {-5*x+3.8};}
 	\end{axis}
 	\end{tikzpicture}
-	\only<3->{Data is not linearly separable -> Can not be divided by a plane}
+	\only<6->{Data is not linearly separable -> Can not be divided by a plane}
 	}
 
 \end{minipage}
 \vfill
-\visible<5->{The algorithm only converges, if the problem is linearly separable.}
+\visible<7->{The algorithm only converges, if the problem is linearly separable.}
 

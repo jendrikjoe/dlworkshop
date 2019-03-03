@@ -3,12 +3,27 @@
 \begin{frame}
 \frametitle{Today's Overview}
 \begin{itemize}
-	\visible<2->{\item 9:00 Intro of Deep Learning}
-	\visible<3->{\item 9:30 Build and train a Perceptron in numpy}
-	\visible<4->{\item 10:00 Move the code to the GPU using PyTorch}
-	\visible<5->{\item 11:00 Use a neural network for more complex time-series forecasting}
-	\visible<6->{\item 13:00 Introduction to NLP}
-	\visible<7->{\item 15:00 TCN vs. RNN}
+	\visible<2->{\item 9:00 Introduction to Deep Learning
+		\begin{itemize}
+			\item Short recap on machine learning
+			\item Build and train a perceptron in numpy
+			\item Gradient Descent
+			\item Move the code to the GPU using PyTorch
+		\end{itemize}	
+	}	
+	\visible<3->{\item 10:30 Coffee Break}
+	\visible<4->{\item 10:45 Neural Networks
+		\begin{itemize}
+			\item Implement a multi-layer perceptron
+			\item Recurrent neural networks
+		\end{itemize}
+	}
+	\visible<5->{\item 12:00 Lunch}
+	\visible<6->{\item 13:00 Word2Vec}
+	\visible<7->{\item 14:00 Chatbot}
+	\visible<8->{\item 14:30 Coffee Break}
+	\visible<9->{\item 14:45 Chatbot (continued)}
+	\visible<10->{\item 16:00 End of workshop}
 \end{itemize}
 \end{frame}
 
@@ -16,10 +31,10 @@
 \begin{frame}
 \frametitle{Why Deep Learning?}
 \begin{itemize}
-	\visible<3->{\item{It can save a lot of time of boooooring feature engineering and writing exceptions}}
-	\visible<4->{\item{It can write computational rules nobody of us would ever think of}}
-	\visible<5->{\item{It can often write better computational rules than we could}}
-	\visible<6->{\item{It can check more cases than we could}}
+	\visible<2->{\item{It can save a lot of time of boooooring feature engineering and writing exceptions}}
+	\visible<3->{\item{It can write computational rules nobody of us would ever think of}}
+	\visible<4->{\item{It can often write better computational rules than we could}}
+	\visible<5->{\item{It can check more cases than we could}}
 \end{itemize}
 \end{frame}
 
@@ -28,7 +43,7 @@
 \frametitle{Perceptron}
 \begin{minipage}{.4\textwidth}
 	\begin{itemize}
-		\visible<1->{\item The perceptron contains a weight($w$) for each input and a threshold($\Theta$)}
+		\visible<1->{\item The perceptron contains a weight ($\vec{w}$) for each input and a threshold ($\Theta$)}
 		\visible<3->{\item Its output can be calculated as $\sum\limits_{i=0}^{k} w_i X_i \geq \Theta$}
 	\end{itemize}
 \end{minipage}
@@ -40,7 +55,7 @@
 		\definecolor{lila}{rgb}{.6,.2,.6}
 		\visible<1->{\coordinate (Unit) at (0,0);
 			\fill[fill=lightblue, opacity = .7] (Unit) circle(3);
-			\draw (Unit) node{$w$,$\Theta$};}
+			\draw (Unit) node{$\vec{w}$,$\Theta$};}
 		\visible<2->{
 			\coordinate (x1) at (-4,4);
 			\draw (x1) ++(-.5,0) node{$X_1$};
@@ -73,10 +88,10 @@
 \begin{itemize}
 	\visible<2->{\item Start with random weights}
 	\visible<3->{\item{Calculate the perceptron's estimate of the solution with: $\hat{y} = \left(\sum\limits_{i} w_i X_i \geq 0\right)$}}
-	\visible<4->{\item{Determine the update for the weights using the error and the learning rate: $\partial w_i = \eta (y-\hat{y}) X_i$}}
+	\visible<4->{\item{Determine the update for the weights using the error and the learning rate ($\alpha$): $\partial w_i = \alpha (y-\hat{y}) X_i$}}
 	\visible<5->{\item{Calculate new weights as: $w_i \leftarrow w_i + \partial w_i$}}
 	\visible<6->{\item Restart the process until the solution is found}
-	\visible<7->{\item Let us actually implement that in the first notebook (Perceptron)}
+	\visible<7->{\item Let us actually implement this in the first notebook (Perceptron)}
 \end{itemize}
 \end{frame}
 
@@ -93,7 +108,6 @@
 \begin{minipage}{.45\textwidth}
 	\begin{tikzpicture}
 	\begin{axis}[xlabel={$x$}, ylabel={$y$}, domain=0:1, width=\textwidth]
-	\only<2->{
 		\addplot+[scatter, only marks, scatter src=\thisrow{class},
 		domain=0:1]
 		table[x=x,y=y,col sep=comma,row sep=crcr] {
@@ -113,16 +127,16 @@
 			.8,.1,1\\
 			.6,.1,1\\
 			.2,.6,1\\
-	};}
-	\only<3->{\addplot+[no marks, domain=0:.6] {-x+.6};}
+	};
+	\only<2->{\addplot+[no marks, domain=0:.6] {-x+.6};}
 	\end{axis}
 	\end{tikzpicture}
-	\only<3->{Data are linearly separable -> Can be divided by a plane}
+	\only<2->{Data are linearly separable -> Can be divided by a plane}
 	
 \end{minipage}
 \hfill
 \begin{minipage}{.45\textwidth}
-	\only<4->{
+	\only<3->{
 	\begin{tikzpicture}
 	\begin{axis}[xlabel={$x$}, ylabel={$y$},domain=0:1, width=\textwidth]
 		\addplot+[scatter, only marks, scatter src=\thisrow{class},
@@ -145,17 +159,17 @@
 			.6,.1,1\\
 			.2,.6,1\\
 		};
-		\only<5->{\addplot+[no marks, domain=0:.6, color=red] {-x+.6};}
-		\only<6->{\addplot+[no marks, domain=0:.6, color=red] {-.8*x+.4};}
-		\only<7->{\addplot+[no marks, domain=.64:.77, color=red] {-5*x+3.8};}
+		\only<4->{\addplot+[no marks, domain=0:.6, color=red] {-x+.6};}
+		\only<5->{\addplot+[no marks, domain=0:.6, color=red] {-.8*x+.4};}
+		\only<6->{\addplot+[no marks, domain=.64:.77, color=red] {-5*x+3.8};}
 	\end{axis}
 	\end{tikzpicture}
-	\only<3->{Data is not linearly separable -> Can not be divided by a plane}
+	\only<6->{Data is not linearly separable -> Can not be divided by a plane}
 	}
 
 \end{minipage}
 \vfill
-\visible<5->{The algorithm only converges, if the problem is linearly separable.}
+\visible<7->{The algorithm only converges, if the problem is linearly separable.}
 
 \end{frame}
 
@@ -198,12 +212,30 @@
 \end{frame}
 
 \begin{frame}
+\frametitle{Optimising Weights}
+\begin{itemize}
+\item{There are multiple ways to use gradient descent.}
+\visible<2->{\item "Simple" Gradient Descent}
+\visible<3->{\item Advanced Methods
+	\begin{itemize}
+		\visible<4->{\item Momentum}
+		\visible<5->{\item Higher Order Derivatives}
+		\visible<6->{\item Randomised Optimisation}
+		\visible<7->{\item Penalty for Complexity}
+	\end{itemize}
+	
+}
+\end{itemize}
+
+\end{frame}
+
+\begin{frame}
 \frametitle{Sigmoid $\rightarrow$ Differentiable Threshold}
 \begin{minipage}{.45\textwidth}
 \begin{itemize}
 	\visible<2->{\item Even though the perceptron is great for boolean functions it is not differentiable and has no continuous error function, consequently the gradient cannot be calculated}
 	\visible<3->{\item $\sigma(a) = \frac{1}{1+e^{-a}}$}
-	\visible<4->{\item The sigmoid allows us to convert the strict classification into a regression over the probability for each to belong to a certain class}
+	\visible<4->{\item The sigmoid allows us to convert the strict classification into a regression over the probability for each point to belong to a certain class}
 \end{itemize}
 \end{minipage}
 \hfill
@@ -224,81 +256,6 @@
 \end{minipage}
 \end{frame}
 
-%\begin{frame}
-%\frametitle{Backpropagation}
-%\begin{minipage}{.59\textwidth}
-%	\begin{itemize}
-%	\visible<2->{\item How do we do gradient descent now?}
-%	\visible<3->{\item Activation: $a = W^{(1)} \circ x$}
-%	\visible<4->{\item Prediction: $o = \sigma(a)$}
-%	\visible<5->{\item Error Function $E(o)=-t\log o - (1-t)\log(1-o)$}
-%	\visible<6->{\item Gradient: $\frac{\partial E}{\partial W} = E(o)\frac{\partial E}{\partial o}\frac{\partial o}{\partial a}\frac{\partial a}{\partial W^{(1)}}$}
-%	\visible<7->{\item This allows a framework to compute gradients for every node, given that the gradient for each step is known.}
-%	\end{itemize}
-%\end{minipage}
-%\hfill
-%\begin{minipage}{.4\textwidth}
-%
-%\begin{tikzpicture}
-%\visible<3->{\foreach \i in {1,...,5} {\draw[green] (0,\i) -- (1.5,3);}}
-%\visible<4->{\draw[green] (1.5,3) -- (3,3);}
-%\visible<5->{\draw[green] (3,3) -- (4.5,3);}
-%\visible<2->{\foreach \y in {1,...,5} \draw(0,\y) node[left, circle, draw=black]{$X_\y$};}
-%\visible<3->{\draw(1.5, 3) node[circle, draw=black, fill=white]{$W^{(1)}$};}
-%\visible<4->{\draw(3, 3) node[circle, draw=black, fill=white]{$\sigma$};}
-%\visible<5->{\draw(4.5, 3) node[circle, draw=black, fill=white]{BCE};}
-%\end{tikzpicture}
-%\end{minipage}
-%	
-%
-%\end{frame}
-
-%\begin{frame}
-%\frametitle{Comparison of the learning rules}
-%\begin{itemize}
-%	\visible<2->{\item{Perceptron Rule: $w_i = w_i + \eta (y-\hat{y}) X_i$
-%		\begin{itemize}
-%			\item Guaranteed to converge, if problem is seperable
-%			\item Finite number of steps
-%		\end{itemize}
-%	}}
-%	\visible<3->{\item{Gradient Descent: $w_i = w_i + \eta(y-a) X_i$
-%		\begin{itemize}
-%			\item Robust due to the continuously differentiable functions
-%			\item Only converges in the limit and only to local optima
-%		\end{itemize}
-%	}}
-%\end{itemize}
-%\end{frame}
-
-%\begin{frame}
-%\frametitle{Numerical Instability}
-%\begin{minipage}{.45\textwidth}
-%	\begin{itemize}
-%		\visible<2->{\item The derivative of sigma is $\frac{\partial\sigma(a)}{\partial a} = \sigma(a)(1-\sigma(a))$}
-%		\visible<3->{\item Derivative for t=0: $-\frac{1}{\sigma{(a)}} * err$}
-%		\visible<4->{\item Derivative for t=1: $-\frac{1}{1- \sigma{(a)}} * err$}
-%		\visible<5->{\item t=0, $\sigma{(a)}$=0: $err = 0$, $\sigma{(a)}=1$: $err = \infty$}
-%		\visible<6->{\item t=1, $\sigma{(a)}=0$: $err = \infty$, $\sigma{(a)}=1$: $err = 0$}
-%	\end{itemize}
-%\end{minipage}
-%\hfill
-%\begin{minipage}{.45\textwidth}
-%	\visible<4->{\begin{tikzpicture}
-%		\draw[->] (-2.5,0) -- (2.5,0);
-%		\draw[->] (-2.5,0) -- (-2.5,3);
-%		\node at (-2.7,0) {0};
-%		\node at (-2.7,3) {1};
-%		\node at (-1.666,-.2) {-5};
-%		\node at (0,-.2) {0};
-%		\node at (1.6666,-.2) {5};
-%		\draw[scale=1,domain=-2.5:2.5,smooth,variable=\x,blue] plot ({\x},{3/(1+exp(-3*\x)) * (3-3/(1+exp(-3*\x))});
-%		\draw[scale=1,domain=.2:1,smooth,variable=\x,orange] plot ({\x},{-(1+exp(-\x))});
-%		\draw[scale=1,domain=.2:1,smooth,variable=\x,orange] plot ({\x},{1/(1-1/(1+exp(-\x)))});
-%		\end{tikzpicture}}
-%\end{minipage}
-%\end{frame}
-
 
 \begin{frame}
 \frametitle{Softmax}
@@ -306,7 +263,9 @@
 	\visible<2->{\item To generalize to n-class classification problems we have to extend the function, that calculates the probability}
 	\visible<3->{\item Softmax: $p_i = \frac{e^{o_i}}{\sum_i{e^{o_i}}}$ probabillity for being in class i, given the output $o_i$}
 	\visible<4->{\item With this we can define the general loss}
-	\visible<5->{\item Cross-Entropy $E=-\frac1n\sum\limits_{i=1}^n\sum\limits_{k=1}^m{y_{i,k}\ln{p_{i,k}}}$}
+	\visible<5->{\item Cross-Entropy $E=-\frac1n\sum\limits_{i=1}^n\sum\limits_{k=1}^m{y_{i,k}\ln{p_{i,k}}}$ \\ 
+	\ \ \ \ $y_{i,k}$ 1, if $i=k$ else 0 \\
+	\ \ \ \ $p_{i,k}$ probability for point $i$ belonging to class $k$}
 \end{itemize}
 \end{frame}
 
@@ -339,43 +298,37 @@
 \end{minipage}
 \end{frame}
 
-
-
 \begin{frame}
-\frametitle{Optimising Weights}
-\begin{itemize}
-	\visible<2->{\item Gradient Descent}
-	\visible<3->{\item Advanced Methods
-		\begin{itemize}
-			\visible<4->{\item Momentum}
-			\visible<5->{\item Higher Order Derivatives}
-			\visible<6->{\item Randomised Optimisation}
-			\visible<7->{\item Penalty for Complexity}
-		\end{itemize}
 
-	}
-\end{itemize}
-
-\end{frame}
-
-\begin{frame}
 \frametitle{Restriction Bias}
 \begin{itemize}
-	\visible<2->{\item Representational power of the algorithm due to the hypothesis considered}
-	\visible<3->{\item Perceptron $\rightarrow$ can only split the data using a plan}
+	\visible<2->{\item Representational power of the neural network (all hypothesis it can consider)}
+	\visible<3->{\item Perceptron $\rightarrow$ can only split the data using a planes}
 	\visible<4->{\item Sigmoids $\rightarrow$ non-linear function}
 	\visible<5->{\item What can we represent with a network?
 		\begin{itemize}
 			\visible<6->{\item Boolean Functions: Yes, because we have a network of threshold-like units}
-			\visible<7->{\item Continuous Functions: Yes, with one (infinitely wide)  layer}
-			\visible<8->{\item Arbitrary Functions: Yes, with two (infinitely wide)  layers}
+			\visible<7->{\item Continuous Functions: Yes, with one (infinitely wide) layer}
+			\visible<8->{\item Arbitrary Functions: Yes, with two (infinitely wide) layers}
 		\end{itemize}
 	}
-	\visible<9->{\item What do we do if we want to store information about previous examples in the network}
+	\visible<9->{How do we make sure that we do not learn the arbitrary noise in the dataset?}
+\end{itemize}
+
+\end{frame}
+\begin{frame}
+\frametitle{Regularization}
+\begin{itemize}
+	\visible<2->{\item How can we limit the representational power of the neural network?}
+	\visible<3->{\item Limit the number of neurons}
+	\visible<4->{\item Dropout}
+	\visible<5->{\item Weight Decay}
+	\visible<6->{\item All of these can be perfectly tested using a validation set}
 \end{itemize}
 
 \end{frame}
 
+\visible<9->{\item What do we do if we want to store information about previous examples in the network}
 \begin{frame}
 \frametitle{Recurrent Neural Networks}
 \begin{minipage}{.45\textwidth}

@@ -1,6 +1,6 @@
 \babel@toc {english}{}
 \beamer@sectionintoc {1}{Overview}{2}{0}{1}
 \beamer@sectionintoc {2}{Introduction}{12}{0}{2}
-\beamer@sectionintoc {3}{Perceptron}{17}{0}{3}
-\beamer@sectionintoc {4}{Gradient Descent}{37}{0}{4}
-\beamer@sectionintoc {5}{Neural Network}{60}{0}{5}
+\beamer@sectionintoc {3}{Perceptron}{22}{0}{3}
+\beamer@sectionintoc {4}{Gradient Descent}{42}{0}{4}
+\beamer@sectionintoc {5}{Neural Network}{65}{0}{5}

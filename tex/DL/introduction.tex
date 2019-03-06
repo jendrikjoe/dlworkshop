@@ -29,9 +29,35 @@
 
 \section{Introduction}
 \begin{frame}
-\frametitle{Why Deep Learning?}
+\frametitle{Machine Learning (Recap)}
 \begin{itemize}
-	\visible<2->{\item{It can save a lot of time of boooooring feature engineering and writing exceptions}}
+	\visible<2->{\item{What is machine learning?}}
+	
+\end{itemize}
+\begin{figure}[h]
+	\begin{tikzpicture}[scale=1]
+	\coordinate (x1) at (0, 0);
+	\visible<3->{
+		\draw (x1) node[left]{$X$};
+		\draw[->] (x1) -- (2, 0);
+	}
+	\visible<4->{
+		\draw[->, fill=black] (2,-1) rectangle (4, 1);
+		\draw[white] (3, 0) node{$f$};
+	}
+	\visible<3->{\draw[->] (4, 0) -- (6, 0) node[right]{$Y$};}
+	\end{tikzpicture}
+\end{figure}
+
+\begin{itemize}
+	\visible<5->{\item{By knowing a set of data and their targets we can tune f to output what we want.}}
+	
+\end{itemize}
+\end{frame}
+\begin{frame}
+\frametitle{Machine Learning (Recap)}
+\begin{itemize}
+	\visible<2->{\item{We don't have to define endless rules}}
 	\visible<3->{\item{It can write computational rules nobody of us would ever think of}}
 	\visible<4->{\item{It can often write better computational rules than we could}}
 	\visible<5->{\item{It can check more cases than we could}}

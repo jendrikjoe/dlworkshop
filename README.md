@@ -1,2 +1,3 @@
 # DLWorkshop
-These are the data for the DeepLearning Workshop at École Technology
+This is a DeepLearning workshop written in PyTorch.
+Do get the solutions check out the solutions branch.

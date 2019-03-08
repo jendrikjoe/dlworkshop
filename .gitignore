@@ -1,3 +1,9 @@
 notebooks/.ipynb_checkpoints
 nohup.*
 Pipfile.lock
+*.aux
+*.toc
+*.nav
+*.vrb
+*.log
+*.syntax.gz

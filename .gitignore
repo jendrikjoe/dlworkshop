@@ -7,3 +7,5 @@ Pipfile.lock
 *.vrb
 *.log
 *.syntax.gz
+.gitignore
+tex/Prerequesites/

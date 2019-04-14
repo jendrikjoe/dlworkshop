@@ -1,6 +1,0 @@
-\beamer@endinputifotherversion {3.36pt}
-\select@language {english}
-\beamer@sectionintoc {1}{Overview}{2}{0}{1}
-\beamer@sectionintoc {2}{Introduction to ROS}{14}{0}{2}
-\beamer@sectionintoc {3}{ROS Tutorials}{56}{0}{3}
-\beamer@sectionintoc {4}{Racecar hacking}{58}{0}{4}

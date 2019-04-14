@@ -2,21 +2,22 @@
 \begin{frame}
 \frametitle{Machine Learning (Recap)}
 \begin{itemize}
-	\visible<2->{\item{What is machine learning?}}
+	\visible<1->{\item{What is machine learning?}}
 	
 \end{itemize}
 \begin{figure}[h]
 	\begin{tikzpicture}[scale=1]
-	\coordinate (x1) at (0, 0);
+	\visible<2->{\pgftext{\includegraphics[width=150pt]{./figs/dog.jpg}} at (0, 0);
+	\coordinate (x1) at (2.5, 0);
+	}
 	\visible<3->{
-		\draw (x1) node[left]{$X$};
-		\draw[->] (x1) -- (2, 0);
+		\draw[->] (x1) -- (5, 0);
 	}
 	\visible<4->{
-		\draw[->, fill=black] (2,-1) rectangle (4, 1);
-		\draw[white] (3, 0) node{$f$};
+		\draw[->, fill=black] (5,-1) rectangle (7, 1);
+		\draw[white] (6, 0) node{$f$};
 	}
-	\visible<3->{\draw[->] (4, 0) -- (6, 0) node[right]{$Y$};}
+	\visible<3->{\draw[->] (7, 0) -- (9, 0) node[right]{dog};}
 	\end{tikzpicture}
 \end{figure}
 
@@ -33,6 +34,28 @@
 	\visible<4->{\item{It can often write better computational rules than we could}}
 	\visible<5->{\item{It can check more cases than we could}}
 \end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Validating Machine Learning (Recap)}
+\begin{figure}[h]
+	\centering
+	\begin{tikzpicture}
+	
+	\definecolor{lightblue}{rgb}{0.5,0.7,1}
+	%\definecolor{lightred}{rgb}{1,.6,.6}
+	\definecolor{lightred}{rgb}{1,.6,.3}
+	\definecolor{lightgreen}{rgb}{.4,.8,.4}
+	\definecolor{lightpurple}{rgb}{.8,.4,.8}
+	\definecolor{lightgrey}{rgb}{.8,.8,.8}
+	
+	% 4th Column
+	\visible<2->{\draw[fill=lightblue] (0,0) rectangle (6,3) (3,1.5) node[align=center]{Training data \\Used to calculate\\model parameter};}
+	\visible<3->{\draw[fill=orange] (6,0) rectangle (9,3) (7.5,1.5) node[align=center]{Validation data \\Used to tune\\hyperparameter};}
+	\visible<4->{\draw[fill=lightgreen] (9,0) rectangle (12,3) (10.5,1.5) node[align=center]{Test data \\Used to predict\\how model will\\perform in\\production};}
+	
+	\end{tikzpicture}
+\end{figure}
 \end{frame}
 
 \section{Overview}
